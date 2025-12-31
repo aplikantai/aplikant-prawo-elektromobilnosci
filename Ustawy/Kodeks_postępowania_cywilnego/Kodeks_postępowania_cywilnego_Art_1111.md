@@ -1,0 +1,31 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 1111
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 1111
+source_document: kodeks-postepowania.pdf
+chunk_number: 1443
+---
+
+Art. 1111. [Immunitet dyplomatyczny]
+§ 1. Nie mogą być pozywane przed sądy polskie następujące osoby:
+1) uwierzytelnieni w Rzeczypospolitej Polskiej szefowie przedstawicielstw dyplomatycznych
+państw obcych;
+2) członkowie personelu dyplomatycznego przedstawicielstw państw obcych w Rzeczypospolitej
+Polskiej;
+3) inne osoby korzystające z immunitetów dyplomatycznych na mocy ustaw, umów lub
+powszechnie ustalonych zwyczajów międzynarodowych;
+4) członkowie rodzin osób wymienionych w pkt 1-3, jeżeli pozostają z nimi we wspólnocie
+domowej i nie mają obywatelstwa polskiego.
+§ 2. Przepisy § 1 nie mają zastosowania do osób w nim wymienionych w odniesieniu do:
+1) spraw z zakresu prawa rzeczowego dotyczących prywatnego mienia nieruchomego
+położonego w Rzeczypospolitej Polskiej, chyba że mienie to jest w posiadaniu tych osób w
+imieniu państwa wysyłającego dla celów przedstawicielstwa dyplomatycznego lub odpowiedniej
+organizacji międzynarodowej dla celów organizacji;
+2) spraw dotyczących spadków, w których osoby te występują jako spadkobiercy, zapisobiercy,
+wykonawcytestamentów, zarządcy lub kuratorzy spadku w charakterze osób prywatnych, nie zaś
+w imieniu państwa wysyłającego lub odpowiedniej organizacji międzynarodowej;
+3) spraw dotyczących zawodowej lub gospodarczej działalności tych osób, wykonywanej przez
+nie w Rzeczypospolitej Polskiej poza funkcjami urzędowymi.
