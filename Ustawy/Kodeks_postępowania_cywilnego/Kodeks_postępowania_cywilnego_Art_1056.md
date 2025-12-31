@@ -1,0 +1,24 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 1056
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 1056
+source_document: kodeks-postepowania.pdf
+chunk_number: 1388
+---
+
+Art. 1056. [Areszt dłużnika]
+§ 1. Areszt wykonywa się przez osadzenie dłużnika w pomieszczeniu na ten cel przeznaczonym,
+oddzielnie od osób pozbawionych wolności w trybie postępowania karnego i administracyjnego.
+Dłużnik powinien jednak podczas przebywania w areszcie być według możności zatrudniony
+zarobkowo w granicach jego zdolności. Z zarobku jego pokrywa się przede wszystkim koszty
+wykonania aresztu.
+§ 2. Polecenie osadzenia dłużnika w areszcie sąd kieruje do komornika miejsca pobytu dłużnika.
+Jeżeli dłużnik nie przebywa w okręgu sądu, który wymierzył grzywnę z zamianą na areszt, sąd
+może zwrócić się o wykonanie aresztu do sądu rejonowego, w którego okręgu dłużnik przebywa.
+§ 3. Koszty wykonania aresztu powinny być pokryte z zarobków dłużnika. Wierzyciel
+obowiązanyjest złożyć zgóry komornikowi sumępotrzebną nasprowadzenie dłużnika domiejsca
+osadzenia i na wyżywienie go przez czas trwania przymusu; nie dotyczy to wypadku, gdy
+wierzyciel korzysta ze zwolnienia od kosztów sądowych.
