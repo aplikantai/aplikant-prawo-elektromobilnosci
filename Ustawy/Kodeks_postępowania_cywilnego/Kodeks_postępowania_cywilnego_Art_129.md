@@ -1,0 +1,34 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 129
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 129
+source_document: kodeks-postepowania.pdf
+chunk_number: 462
+---
+
+Art. 129. [Oryginał dokumentu; uwierzytelnianie dokumentów]
+§ 1. Strona powołująca się w piśmie na dokument obowiązana jest na żądanie przeciwnika
+złożyć oryginał dokumentu w sądzie jeszcze przed rozprawą.
+§ 2. Zamiast oryginału dokumentu strona może złożyć odpis dokumentu, jeżeli jego
+zgodność z oryginałem została poświadczona przez notariusza albo przez występującego w
+sprawiepełnomocnika strony będącegoadwokatem, radcą prawnym,rzecznikiem patentowym
+lub radcą Prokuratorii Generalnej Rzeczypospolitej Polskiej.
+1
+§ 2 . Elektroniczne poświadczenie odpisu dokumentu przez występującego w sprawie
+pełnomocnika strony będącego adwokatem, radcą prawnym, rzecznikiem patentowym lub
+radcą Prokuratorii Generalnej Rzeczypospolitej Polskiej następuje z chwilą wprowadzenia
+przez tego pełnomocnika dokumentu do systemu teleinformatycznego.
+§ 3. Zawarte w odpisie dokumentu poświadczenie zgodności z oryginałem przez
+występującego w sprawie pełnomocnika strony będącego adwokatem, radcą prawnym,
+rzecznikiem patentowym lub radcą Prokuratorii Generalnej Rzeczypospolitej Polskiej ma
+charakter dokumentu urzędowego.
+§ 4. Jeżeli jest to uzasadnione okolicznościami sprawy, sąd, na wniosek strony albo zurzędu,
+zażąda od strony składającej odpis dokumentu, o którym mowa w § 2,przedłożenia oryginału
+tego dokumentu.
+§ 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, formaty, w jakich odpisy
+pism, dokumentów i pełnomocnictw mogą być poświadczane elektronicznie, mając na
+względzie minimalne wymagania dla rejestrów publicznych i wymiany informacji w postaci
+elektronicznej.
