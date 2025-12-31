@@ -1,0 +1,21 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 751
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 751
+source_document: kodeks-postepowania.pdf
+chunk_number: 1083
+---
+
+Art. 751. [Rzeczy ulegające szybkiemu zepsuciu]
+§ 1. Rzeczy ulegające szybkiemu zepsuciu mogą stanowić przedmiot zabezpieczenia, gdy
+obowiązany nie ma innego mienia, które mogłoby zabezpieczyć roszczenia uprawnionego, istnieje
+zaś możliwość sprzedaży tych rzeczy niezwłocznie.
+§ 2. Sprzedaż rzeczy wymienionych w § 1 powinna nastąpić niezwłocznie, według przepisów o
+sprzedaży w trybie egzekucji z ruchomości.
+§ 3. Na wniosek obowiązanego sąd rejonowy może po wysłuchaniu uprawnionego polecić
+komornikowi sprzedaż każdej zajętej ruchomości, wierzytelności lub prawa.
+§ 4. Cenę uzyskaną ze sprzedaży składa się na rachunek depozytowy Ministra Finansów na
+zabezpieczenie roszczeń uprawnionego.
