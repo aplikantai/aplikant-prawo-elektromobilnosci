@@ -1,0 +1,27 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 897
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 897
+source_document: kodeks-postepowania.pdf
+chunk_number: 1229
+---
+
+Art. 897. [Wniosek o wpis o zajęciu w księdze wieczystej]
+§ 1. W celu zajęcia wierzytelności, której zabezpieczenie jest ujawnione przez wpis w księdze
+wieczystej lub przez złożenie dokumentu do zbioru, komornik jednocześnie z zawiadomieniem i
+wezwaniem dłużników zgodnie z art. 896, składa do sądu właściwego do prowadzenia księgi
+wieczystej wniosek o wpis o zajęciu lub o złożenie tego wniosku do zbioru dokumentów.
+§ 2. Jeżeli w księdze wieczystej znajdują się wpisy lub w zbiorze dokumentów dokumenty
+stanowiące przeszkodę do uwzględnienia wniosku, sąd właściwy do prowadzenia księgi wieczystej
+zawiadomi o tym wierzyciela i komornika, wyznaczając termin do usunięcia przeszkody.
+Usunięcie przeszkody należy do wierzyciela. W tym celu wierzyciel może wykonywać prawa
+przysługujące dłużnikowi. Na wniosek wierzyciela komornik odbierze dłużnikowi potrzebne do
+tego dokumenty.
+§ 3. Po bezskutecznym upływie wyznaczonego terminu sąd oddali wniosek komornika, a
+komornik umorzy egzekucję. Jeżeli jednak wierzyciel w terminie wyznaczonym przez sąd wytoczy
+powództwo w celu usunięcia przeszkody, oddalenie wniosku i umorzenie egzekucji nie może
+nastąpić przed prawomocnym oddaleniem powództwa.
+§ 4. (uchylony).
