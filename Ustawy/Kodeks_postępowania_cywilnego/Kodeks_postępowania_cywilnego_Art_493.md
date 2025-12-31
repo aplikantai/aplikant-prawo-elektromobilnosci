@@ -1,0 +1,28 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 493
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 493
+source_document: kodeks-postepowania.pdf
+chunk_number: 826
+---
+
+Art. 493. [Zarzuty od nakazu zapłaty]
+§ 1. Od nakazu zapłaty pozwany może wnieść zarzuty.
+§ 2. W piśmie zawierającym zarzuty pozwany powinien, poza elementami wskazanymi w art.
+3
+480 § 2, wymienić fakty, z których wywodzi żądania, i dowody na wykazanie każdego z
+nich.
+§ 3. W postępowaniu po wniesieniu zarzutów:
+1) nie stosuje się przepisów art. 194-196 i art. 198;
+2) powództwo wzajemne jest niedopuszczalne;
+3) nie można występować z nowymi roszczeniami zamiast lub obok dotychczasowych;
+jednakże w przypadku zmiany okoliczności powód może żądać zamiast pierwotnego
+przedmiotu sporu jego równowartości lub innego przedmiotu, a w sprawach o świadczenie
+powtarzające się może nadto rozszerzyć powództwo o świadczenia za kolejne okresy.
+§ 4. Jeżeli zachodzą podstawy do odrzucenia pozwu lub umorzenia postępowania, sąd z
+urzędu postanowieniem uchyla nakaz zapłaty i wydaje odpowiednie rozstrzygnięcie. W innym
+przypadku sąd wydaje wyrok, którym w całości lub części utrzymuje nakaz zapłaty w mocy
+albo go uchyla i orzeka o żądaniu pozwu.
