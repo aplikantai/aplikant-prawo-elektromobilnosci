@@ -1,0 +1,19 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 1053
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 1053
+source_document: kodeks-postepowania.pdf
+chunk_number: 1385
+---
+
+Art. 1053. [Zamiana grzywny na areszt]
+§ 1. Wymierzając grzywnę, sąd orzeknie jednocześnie - na wypadek niezapłacenia - zamianę
+grzywny na areszt, licząc jeden dzień aresztu od pięćdziesięciu do tysiąca pięciuset złotych
+grzywny. Ogólny czas trwania aresztu nie może w tej samej sprawie przekroczyć 6 miesięcy.
+§ 2. Jeżeli dłużnikiem, do którego skierowane było wezwanie sądu, jest osoba prawna lub inna
+organizacja, środkom przymusu podlega jej pracownik odpowiedzialny za niezastosowanie się do
+wezwania, a gdyby ustalenie takiego pracownika było utrudnione, środkom przymusu podlegają
+osoby uprawnione do jej reprezentowania.
