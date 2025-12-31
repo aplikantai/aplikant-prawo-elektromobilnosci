@@ -1,0 +1,42 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 948
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 948
+source_document: kodeks-postepowania.pdf
+chunk_number: 1280
+---
+
+Art. 948. [Oszacowanie nieruchomości]
+§ 1. Podstawą oszacowania nieruchomości jest operat szacunkowy sporządzony przez biegłego
+uprawnionegodo określania wartości nieruchomościzgodnie z ustawą zdnia 21 sierpnia1997 r.
+o gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145 i 1222). Celem sporządzenia
+operatu szacunkowego, w rozumieniu art. 156 ust. 3 tej ustawy, jest dokonanie oszacowania
+nieruchomości. Oszacowania nieruchomości można również dokonać na podstawie operatu
+szacunkowego sporządzonego na potrzeby obrotu rynkowego w okresie roku przed terminem
+opisu i oszacowania nieruchomości, jeżeli jego treść odpowiada wymogom oszacowania
+nieruchomości w egzekucji z nieruchomości.
+1
+§ 1 . Jeżeli wniosek o wszczęcie nowej egzekucji złożono do tego samego komornika w
+terminie trzech lat od daty umorzenia egzekucji, w toku której dokonano opisu i oszacowania
+nieruchomości, nowego oszacowania dokonuje się tylko na wniosek wierzyciela lub dłużnika.
+Dłużnik może złożyć taki wniosek w terminie dwóch tygodni od daty doręczenia mu wezwania
+do zapłaty, o czym należy go pouczyć przy doręczeniu wezwania. W toku nowej egzekucji od
+sporządzenia protokołu opisu i oszacowania nieruchomości można odstąpić wyłącznie w
+przypadku, jeżeli od dnia przeprowadzenia poprzedniego opisu i oszacowania minął mniej niż
+rok, a w okresie tym nie zaszły zmiany w stanie nieruchomości.
+§ 2. W oszacowaniu poza wartością całej nieruchomości należy podać osobno wartość
+przynależności i pożytków, a także części nieruchomości, która zgodnie z art. 946 może zostać
+wydzielona celem wystawienia oddzielnie na licytację. Wartości powyższe należy podać
+zarówno z uwzględnieniem, jak i bez uwzględnienia praw, które pozostają w mocy bez
+zaliczenia na cenę nabycia, oraz wartości praw nieokreślonych sumą pieniężną obciążających
+nieruchomość, w szczególności świadczeń z tytułu takich praw.
+§ 3. Opisem i oszacowaniem należy objąć zosobna każdą nieruchomość stanowiącą przedmiot
+egzekucji, jeżeli jest ona wpisana do odrębnej księgi wieczystej lub prowadzony jest dla niej
+odrębny zbiór dokumentów. Jeżeli jednak postępowania egzekucyjne toczące się co do kilku
+nieruchomości tego samego dłużnika, wpisanych do oddzielnych ksiąg wieczystych lub dla
+których prowadzone są odrębne zbiory dokumentów, połączone zostały w jedno postępowanie,
+to w przypadku gdy nieruchomości te stanowią całość gospodarczą, należy opisać i oszacować tę
+całość i każdą z nieruchomości z osobna.
