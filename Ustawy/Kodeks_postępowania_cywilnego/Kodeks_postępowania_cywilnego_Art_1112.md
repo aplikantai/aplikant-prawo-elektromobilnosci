@@ -1,0 +1,27 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 1112
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 1112
+source_document: kodeks-postepowania.pdf
+chunk_number: 1444
+---
+
+Art. 1112. [Immunitet konsularny]
+§ 1. Nie mogą być pozywane przed sądy polskie w sprawach wchodzących w zakres czynności
+dokonanych w toku pełnienia ich funkcji urzędowych następujące osoby:
+1) urzędnicy pełniący funkcje konsularne w imieniu państw obcych niezależnie od posiadanego
+obywatelstwa;
+2) cudzoziemcy będący pracownikami administracyjnymi i technicznymi przedstawicielstw
+dyplomatycznych i urzędów konsularnych państw obcych w Rzeczypospolitej Polskiej lub
+członkami personelu służby przedstawicielstw dyplomatycznych oraz inne osoby zrównane z nimi
+na mocy ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych.
+§ 2. Przepis § 1 nie ma zastosowania w stosunku do urzędników pełniących funkcje konsularne
+oraz pracowników administracyjnych i technicznych urzędów konsularnych w przypadku
+wytoczenia przeciwko tym osobom powództw:
+1) wynikłych z zawarcia przez nie umowy, w której nie występowały wyraźnie lub w sposób
+dorozumiany jako przedstawiciele państwa wysyłającego;
+2) o wynagrodzenie szkody powstałej w wyniku wypadku spowodowanego w Rzeczypospolitej
+Polskiej przez pojazd, statek morski, statek żeglugi śródlądowej lub statek powietrzny.
