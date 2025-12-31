@@ -1,0 +1,19 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 1137
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 1137
+source_document: kodeks-postepowania.pdf
+chunk_number: 1469
+---
+
+Art. 1137. [Zabezpieczenie dowodów]
+Sąd może zabezpieczyć dowód znajdujący się w Rzeczypospolitej Polskiej, jeżeli jest to
+potrzebne do dochodzenia roszczenia za granicą. Wniosek o zabezpieczenie dowodu składa się w
+sądzie rejonowym, w którego okręgu dowód ma być przeprowadzony. O terminie wyznaczonym
+do przeprowadzenia dowodu zawiadamia się wnioskodawcę, chyba że zachodzi wypadek
+niecierpiący zwłoki. Poza tym stosuje się odpowiednio art. 310 oraz art. 312-314.
+TYTUŁ VI
+Zagraniczne dokumenty urzędowe
