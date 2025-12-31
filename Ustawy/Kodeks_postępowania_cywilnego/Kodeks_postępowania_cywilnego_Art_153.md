@@ -1,0 +1,24 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 153
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 153
+source_document: kodeks-postepowania.pdf
+chunk_number: 486
+---
+
+Art. 153. [Posiedzenie przy drzwiach zamkniętych]
+§ 1. Sąd z urzędu zarządza odbycie całego posiedzenia lub jego części przy drzwiach
+zamkniętych, jeżeli publiczne rozpoznanie sprawy zagraża porządkowi publicznemu lub
+moralności lub jeżeli mogą być ujawnione okoliczności objęte ochroną informacji niejawnych.
+1
+§ 1 . Sąd na wniosek strony zarządza odbycie posiedzenia lub jego części przy drzwiach
+zamkniętych, gdy mogą być ujawnione okoliczności stanowiące tajemnicę jej
+przedsiębiorstwa.
+§ 2. Sąd może ponadto zarządzić odbycie posiedzenia lub jego części przy drzwiach
+zamkniętych na wniosek strony, jeżeli podane przez nią przyczyny uzna za uzasadnione lub
+jeżeli roztrząsane być mają szczegóły życia rodzinnego. Postępowanie dotyczące tego
+wniosku odbywa się przy drzwiach zamkniętych. Postanowienie w tym przedmiocie sąd
+ogłasza publicznie.
