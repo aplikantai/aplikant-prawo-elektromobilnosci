@@ -1,0 +1,28 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 1115
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 1115
+source_document: kodeks-postepowania.pdf
+chunk_number: 1447
+---
+
+Art. 1115. [Immunitet egzekucyjny]
+§ 1. Przeciwko osobom, które na podstawie art. 1111 § 1 i art. 1112 § 1 korzystają z immunitetu
+sądowego w zakresie przewidzianym w tych przepisach, nie może być także prowadzona egzekucja,
+chyba że chodzi o sprawę, w której osobom tym nie przysługuje immunitet sądowy.
+§ 2. Przeciwko osobom określonym w § 1, w stosunku do których państwo wysyłające lub
+odpowiednia organizacja międzynarodowa zrzekły się immunitetu sądowego, może być prowadzona
+egzekucja jedynie w przypadku wyraźnego zrzeczenia się immunitetu przez państwo wysyłające lub
+odpowiednią organizację międzynarodową także w odniesieniu do postępowania egzekucyjnego.
+§ 3. Jeżeli prowadzenie egzekucji jest dozwolone, niedopuszczalna jest egzekucja z mienia
+służącego do użytku urzędowego oraz przez stosowanie przymusu wobec osoby dłużnika.
+§ 4. Egzekucja jest niedopuszczalna w pomieszczeniach zajmowanych przez przedstawicielstwa
+dyplomatyczne, misje zagraniczne lub urzędy konsularne państw obcych w Rzeczypospolitej
+Polskiejoraz w mieszkaniach osób wymienionychw art.1111 § 1, chyba że szef przedstawicielstwa
+dyplomatycznego, misji zagranicznej lub urzędu konsularnego wyrazi na to zgodę.
+1
+Art. 1115 . [Odpowiednie stosowanie w postępowaniu zabezpieczającym]
+Przepisy art. 1111-1115 stosuje się odpowiednio w postępowaniu zabezpieczającym.
