@@ -1,0 +1,37 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 187
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 187
+source_document: kodeks-postepowania.pdf
+chunk_number: 520
+---
+
+Art. 187. [Treść pozwu]
+§ 1. Pozew powinien czynić zadość warunkom pisma procesowego, a nadto zawierać:
+1) dokładnie określone żądanie, a w sprawach o prawa majątkowe także oznaczenie
+wartości przedmiotu sporu, chyba że przedmiotem sprawy jest oznaczona kwota pieniężna;
+1
+1 ) oznaczenie daty wymagalności roszczenia w sprawach o zasądzenie roszczenia;
+2) wskazanie faktów, na których powód opiera swoje żądanie, a w miarę potrzeby
+uzasadniających również właściwość sądu;
+3) informację, czy strony podjęły próbę mediacji lub innego pozasądowego sposobu
+rozwiązania sporu, a w przypadku gdy takich prób nie podjęto, wyjaśnienie przyczyn ich
+niepodjęcia.
+§ 2. Pozew może zawierać wnioski o zabezpieczenie powództwa, nadanie wyrokowi rygoru
+natychmiastowej wykonalności i przeprowadzenie rozprawy w nieobecności powoda oraz
+wnioski służące do przygotowania rozprawy, a w szczególności wnioski o:
+1) wezwanie na rozprawę wskazanych przez powoda świadków i biegłych;
+2) dokonanie oględzin;
+3) polecenie pozwanemu dostarczenia na rozprawę dokumentu będącego w jego
+posiadaniu, a potrzebnego do przeprowadzenia dowodu, lub przedmiotu oględzin;
+4) zażądanie dowodów znajdujących się w sądach, urzędach lub u osób trzecich, wraz z
+uprawdopodobnieniem, że strona sama nie może ich uzyskać.
+1
+Art. 187 .
+(uchylony).
+2
+Art. 187 .
+(uchylony).
