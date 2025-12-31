@@ -1,0 +1,25 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 940
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 940
+source_document: kodeks-postepowania.pdf
+chunk_number: 1272
+---
+
+Art. 940. [Kolejność zaspokajania]
+§ 1. Z dochodów z nieruchomości zarządca pokrywa bezpośrednio konieczne wydatki,
+połączone z zarządem, w następującej kolejności:
+1) koszty egzekucji w postaci wynagrodzenia w ustalonej przez sąd wysokości oraz zwrot
+własnych wydatków;
+2) bieżące należności pracowników zatrudnionych w nieruchomości lub w
+przedsiębiorstwach znajdujących się na niej i należących do dłużnika;
+3) bieżące należności podatkowe z nieruchomości oraz bieżące należności z tytułu
+ubezpieczenia społecznego pracowników wymienionych w pkt 2;
+4) zobowiązania związane z wykonywaniem zarządu;
+5) należności z tytułu ubezpieczenia nieruchomości, jej przynależności i pożytków.
+§ 2. Nadwyżki dochodów uzyskane po pokryciu wydatków, o których mowa w § 1, zarządca
+przekazuje nie rzadziejniż raz w roku komornikowi, którypokrywa z nich przypadające w toku
+zarządu należności wierzycieli alimentacyjnych.
