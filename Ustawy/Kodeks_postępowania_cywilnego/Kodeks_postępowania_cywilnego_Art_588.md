@@ -1,0 +1,25 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 588
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 588
+source_document: kodeks-postepowania.pdf
+chunk_number: 921
+---
+
+Art. 588. [Skuteczność postanowienia]
+§ 1. Postanowienie orzekające przysposobienie staje się skuteczne po uprawomocnieniu
+się. Postanowienia takiego sąd opiekuńczy nie może zmienić ani uchylić.
+§ 2. Sąd w terminie 7 dni od dnia uprawomocnienia się postanowienia orzekającego
+przysposobienie przesyła odpis tego postanowienia do ośrodka adopcyjnego, który dokonał
+kwalifikacji dziecka do przysposobienia krajowego.
+§ 3. W przypadku gdy przez przysposobienie przysposabiany zmienia dotychczasowe
+miejsce zamieszkania w Rzeczypospolitej Polskiej na miejsce zamieszkania w innym
+państwie, będącym stroną Konwencji o ochronie dzieci i współpracy w dziedzinie
+przysposobienia międzynarodowego, sporządzonej w Hadze dnia 29 maja 1993 r. (Dz. U. z
+2000 r. poz. 448 oraz z 2002 r. poz. 17), sąd w terminie 7 dni od dnia uprawomocnienia się
+postanowienia orzekającego przysposobienie przesyła odpis tego postanowienia do organu
+centralnego, o którym mowa w art. 187 ust. 1 pkt 9 ustawy z dnia 9 czerwca 2011 r. o
+wspieraniu rodziny i systemie pieczy zastępczej.
