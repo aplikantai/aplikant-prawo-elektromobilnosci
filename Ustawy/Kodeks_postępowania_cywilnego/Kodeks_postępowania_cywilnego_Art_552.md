@@ -1,0 +1,25 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 552
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 552
+source_document: kodeks-postepowania.pdf
+chunk_number: 885
+---
+
+Art. 552. [Świadectwo lekarskie; zaświadczenia]
+§ 1. Jeżeli według wniosku ubezwłasnowolnienie ma być orzeczone z powodu choroby
+psychicznej lub niedorozwoju umysłowego, sąd przed zarządzeniem doręczenia wniosku
+zażąda, w wyznaczonym terminie, przedstawienia świadectwa lekarskiego wydanego przez
+lekarza psychiatrę o stanie psychicznym osoby, której dotyczy wniosek o
+ubezwłasnowolnienie, lub opinii psychologa o stopniu niepełnosprawności umysłowej tej
+osoby. Jeżeli ubezwłasnowolnienie ma nastąpić z powodu pijaństwa, sąd żąda także
+przedstawienia zaświadczenia poradni przeciwalkoholowej, a jeżeli ubezwłasnowolnienie
+ma nastąpić z powodu narkomanii - zaświadczenia z poradni leczenia uzależnień.
+§ 2. Sąd odrzuca wniosek o ubezwłasnowolnienie, jeżeli treść wniosku lub dołączone do
+wniosku dokumenty nie uprawdopodobniają istnienia choroby psychicznej, niedorozwoju
+umysłowego lub występowania innego rodzaju zaburzeń psychicznych osoby, której
+dotyczy wniosek o ubezwłasnowolnienie albo w razie niezłożenia żądanego świadectwa,
+opinii lub zaświadczenia, chyba że złożenie takich dokumentów nie jest możliwe.
