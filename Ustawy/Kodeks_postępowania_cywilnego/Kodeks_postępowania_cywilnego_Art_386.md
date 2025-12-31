@@ -1,0 +1,31 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 386
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 386
+source_document: kodeks-postepowania.pdf
+chunk_number: 719
+---
+
+Art. 386. [Inne rozstrzygnięcia]
+§ 1. Wrazie uwzględnienia apelacji sąd drugiej instancji zmienia zaskarżony wyrok i orzeka
+co do istoty sprawy.
+§ 2. W razie stwierdzenia nieważności postępowania sąd drugiej instancji uchyla zaskarżony
+wyrok, znosi postępowanie w zakresie dotkniętym nieważnością i przekazuje sprawę sądowi
+pierwszej instancji do ponownego rozpoznania.
+§ 3. Jeżeli pozew ulega odrzuceniu albo zachodzi podstawa do umorzenia postępowania, sąd
+drugiej instancji uchyla wyrok oraz odrzuca pozew lub umarza postępowanie.
+§ 4. Poza wypadkami określonymi w § 2 i 3 sąd drugiej instancji może uchylić zaskarżony
+wyrok i przekazać sprawę do ponownego rozpoznania tylko w razie nierozpoznania przez sąd
+pierwszej instancji istoty sprawy albo gdy wydanie wyroku wymaga przeprowadzenia
+postępowania dowodowego w całości.
+§ 5. W przypadku uchylenia wyroku i przekazania sprawy do ponownego rozpoznania sąd
+rozpoznaje ją w tym samym składzie, chyba że nie jest to możliwe lub powodowałoby
+nadmierną zwłokę w postępowaniu.
+§ 6. Ocena prawna wyrażona w uzasadnieniu wyroku sądu drugiej instancji wiąże zarówno
+sąd, któremu sprawa została przekazana, jak i sąd drugiej instancji, przy ponownym
+rozpoznaniu sprawy. Nie dotyczy to jednak przypadku, gdy nastąpiła zmiana stanu prawnego
+lub faktycznego, albo po wydaniu wyroku sądu drugiej instancji Sąd Najwyższy w uchwale
+rozstrzygającej zagadnienie prawne wyraził odmienną ocenę prawną.
