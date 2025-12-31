@@ -1,0 +1,24 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 157
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 157
+source_document: kodeks-postepowania.pdf
+chunk_number: 490
+---
+
+Art. 157. [Sporządzenie protokołu lub notatki urzędowej; e-protokół w postępowaniu
+cywilnym]
+§ 1. Z przebiegu posiedzenia jawnego protokolant sporządza protokół. Protokół sporządza
+się, utrwalając przebieg posiedzenia za pomocą urządzenia rejestrującego dźwięk albo obraz i
+dźwięk oraz pisemnie, pod kierunkiem przewodniczącego, zgodnie z art. 158 § 1.
+1
+§ 1 . Jeżeli ze względów technicznych utrwalenie przebiegu posiedzenia za pomocą
+urządzenia rejestrującego dźwięk albo obraz i dźwięk nie jest możliwe, protokół jest
+sporządzany wyłącznie pisemnie, pod kierunkiem przewodniczącego, zgodnie z art. 158 § 2.
+§ 2. Przy wydawaniu wyroków zaocznych wystarcza zaznaczenie w aktach, że pozwany nie
+stawił się na posiedzenie, nie żądał przeprowadzenia rozprawy w swej nieobecności i nie
+złożył żadnych wyjaśnień, oraz wzmianka co do ogłoszenia wyroku.
+§ 3. Z posiedzenia niejawnego sporządza się notatkę urzędową, jeżeli nie wydano orzeczenia.
