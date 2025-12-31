@@ -1,0 +1,54 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 387
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 387
+source_document: kodeks-postepowania.pdf
+chunk_number: 720
+---
+
+Art. 387. [Uzasadnienie]
+§ 1. Sąd drugiej instancji uzasadnia z urzędu wyrok oraz postanowienie kończące
+postępowanie w sprawie.
+1
+§ 1 . W sprawach, w których:
+1) apelację oddalono,
+2) zmieniono zaskarżony wyrok lub
+3) skarga kasacyjna ani zażalenie do Sądu Najwyższego nie przysługują
+- pisemne uzasadnienie sporządza się tylko wówczas, gdy strona zgłosiła wniosek o
+doręczenie orzeczenia z uzasadnieniem.
+§ 2. Pisemne uzasadnienie albo transkrypcję wygłoszonego uzasadnienia sporządza się w
+terminie dwóch tygodni od dnia ogłoszenia orzeczenia. Jeżeli ogłoszenia nie było, termin ten
+1
+liczy się od dnia wydania orzeczenia. W sprawach, o których mowa w § 1 , pisemne
+uzasadnienie albo transkrypcję wygłoszonego uzasadnienia sporządza się w terminie dwóch
+tygodni od dnia zgłoszenia wniosku o doręczenie wyroku z uzasadnieniem.
+1
+§ 2 . W uzasadnieniu wyroku sądu drugiej instancji:
+1) wskazanie podstawy faktycznej rozstrzygnięcia może ograniczyć się do stwierdzenia,
+że sąd drugiej instancji przyjął za własne ustalenia sądu pierwszej instancji, chyba że sąd
+drugiej instancji zmienił lub uzupełnił te ustalenia; jeżeli sąd drugiej instancji
+przeprowadził postępowanie dowodowe lub odmiennie ocenił dowody przeprowadzone
+przed sądem pierwszej instancji, uzasadnienie powinno także zawierać ustalenie faktów,
+które sąd drugiej instancji uznał za udowodnione, dowodów, na których się oparł, i
+przyczyn, dla których innym dowodom odmówił wiarygodności i mocy dowodowej;
+2) wyjaśnienie podstawy prawnej wyroku z przytoczeniem przepisów prawa powinno
+objąć ocenę poszczególnych zarzutów apelacyjnych, a poza tym może ograniczyć się do
+stwierdzenia, że sąd drugiej instancji przyjął za własne oceny sądu pierwszej instancji.
+§ 3. Orzeczenie z uzasadnieniem doręcza się tej stronie, która w terminie tygodnia od dnia
+ogłoszenia orzeczenia zgłosiła wniosek o doręczenie orzeczenia z uzasadnieniem. Przepis art.
+327 § 2 stosuje się odpowiednio. Jeżeli ogłoszenia nie było, orzeczenie z uzasadnieniem
+doręcza się stronom z urzędu w terminie tygodnia od dnia sporządzenia uzasadnienia.
+§ 4. Jeżeli nie sporządzono pisemnego uzasadnienia wyroku ani transkrypcji wygłoszonego
+uzasadnienia, a w sprawie została wniesiona skarga kasacyjna lub skarga o stwierdzenie
+niezgodnościzprawem prawomocnego orzeczenia,sporządza się je w terminie dwóchtygodni
+oddnia wpływuskargi dosądu, ajeżeli skarga była dotkniętabrakami - oddnia usunięciatych
+braków. Uzasadnienie można ograniczyć do zakresu, którego dotyczy skarga.
+1
+Art. 387 . [Obowiązek zawiadamiania o zmianie miejsca zamieszkania]
+W razie wydania przez sąd drugiej instancji orzeczenia, od którego przysługuje skarga
+kasacyjna, strony i ich przedstawiciele mają obowiązek, do czasu upływu terminu do
+wniesienia skargi kasacyjnej, zawiadamiać sąd drugiej instancji o każdej zmianie miejsca
+zamieszkania.
