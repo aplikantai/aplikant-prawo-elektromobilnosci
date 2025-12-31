@@ -1,0 +1,26 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 875
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 875
+source_document: kodeks-postepowania.pdf
+chunk_number: 1207
+---
+
+Art. 875. [Druga licytacja]
+§ 1. Jeżeli licytacja nie doszła do skutku, wierzyciel może w ciągu dwóch tygodni od
+otrzymania zawiadomienia komornika żądać wyznaczenia drugiej licytacji lub przejąć na
+własność ruchomości wystawione na sprzedaż albo niektóre z nich w cenie nie niższej od ceny
+wywołania.
+§ 2. Jeżeli egzekucję prowadzi kilku wierzycieli, pierwszeństwo przejęcia ruchomości na
+własność przysługuje temu z nich, który ofiarował najwyższą cenę, przy równej zaś cenie -
+temu, na którego żądanie wcześniej dokonano zajęcia.
+§ 3. Oświadczenie o przejęciu będzieuwzględnione tylko wtedy,gdy wierzyciel jednocześniez
+wnioskiem złoży całą cenę. Własność ruchomości przechodzi na wierzyciela z chwilą
+zawiadomienia go o przyznaniu mu przejętej rzeczy.
+§ 4. W razie niezgłoszenia w przepisanym terminie wniosku o wyznaczenie drugiej licytacji lub
+oświadczenia o przejęciu ruchomości na własność, komornik umorzy postępowanie co do
+niesprzedanych ruchomości. Jeżeli spomiędzy kilku wierzycieli jedni żądają licytacji, a inni
+przejęcia ruchomości na własność, wyznaczona będzie druga licytacja.
