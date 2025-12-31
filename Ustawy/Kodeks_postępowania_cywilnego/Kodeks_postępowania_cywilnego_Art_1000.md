@@ -1,0 +1,33 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 1000
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 1000
+source_document: kodeks-postepowania.pdf
+chunk_number: 1332
+---
+
+Art. 1000. [Wygaśnięcie praw i roszczeń]
+§ 1. Z chwiląuprawomocnienia się postanowienia o przysądzeniu własności wygasająwszelkie
+prawai skutkiujawnienia prawi roszczeńosobistych ciążącena nieruchomości.Na miejsce tych
+praw powstaje prawo do zaspokojenia z ceny nabycia z pierwszeństwem przewidzianym w
+przepisach o podziale ceny uzyskanej z egzekucji.
+§ 2. Pozostają w mocy bez potrącenia ich wartości z ceny nabycia:
+1) prawa ciążące na nieruchomości z mocy ustawy;
+2) (uchylony);
+3) służebność drogi koniecznej oraz służebność ustanowiona w związku z przekroczeniem
+granicy przy wznoszeniu budowli lub innego urządzenia;
+4) służebność przesyłu.
+§ 3. Pozostają również w mocy ujawnione przez wpis w księdze wieczystej lub złożenie
+dokumentu do zbioru albo nieujawnione w ten sposób, lecz zgłoszone najpóźniej na trzy dni
+przed terminem licytacji, użytkowanie, służebności i prawa dożywotnika, jeżeli przysługuje im
+pierwszeństwo przed wszystkimi hipotekami lub jeżeli nieruchomość nie jest hipotekami
+obciążona albo jeżeli wartość użytkowania, służebności i praw dożywotnika znajduje pełne
+pokrycie w cenienabycia. Jednakże w wypadku ostatnim wartość tych praw będziezaliczona na
+cenę nabycia.
+§ 4. Przepisu § 1 nie stosuje się w odniesieniu do ciążących na nieruchomości spółdzielczych
+lokatorskich i własnościowych praw do lokalu. Prawa te, z chwilą uprawomocnienia się
+postanowienia o przysądzeniu własności, przekształcają się odpowiednio w prawo najmu, w
+prawo odrębnej własności do lokalu albo we własność domu jednorodzinnego.
