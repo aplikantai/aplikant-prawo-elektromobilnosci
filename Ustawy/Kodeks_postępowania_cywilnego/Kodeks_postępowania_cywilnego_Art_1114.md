@@ -1,0 +1,23 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 1114
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 1114
+source_document: kodeks-postepowania.pdf
+chunk_number: 1446
+---
+
+Art. 1114. [Zrzeczenie się immunitetu sądowego]
+§ 1. Przepisy art. 1111 § 1 i art. 1112 § 1 nie mają zastosowania w przypadku, jeżeli państwo
+wysyłające w sposób wyraźny zrzeknie się immunitetu sądowego w stosunku do osób wymienionych
+w tych przepisach.
+§ 2. W stosunku do urzędników międzynarodowych, korzystających z immunitetu sądowego,
+zrzeczenie się immunitetu przewidziane w § 1 musi być dokonane przez odpowiednią organizację
+międzynarodową.
+§ 3. Niezależnie od postanowień § 1 i 2 osobom wymienionym w art. 1111 § 1 i art. 1112 § 1 nie
+przysługuje immunitet sądowy w sprawach:
+1) w których osoby te wszczynają postępowanie przed sądem polskim;
+2) z powództw wzajemnych przeciwko tym osobom;
+3) z powództw przeciwegzekucyjnych wytoczonych przeciwko nim.
