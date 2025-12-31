@@ -1,0 +1,23 @@
+---
+law_title: "Ustawa o zmianie ustawy o elektromobilności (2024)"
+category: Ustawy
+legal_provisions: Art. 3
+doc_type: USTAWA
+doc_number: Dz.U.2024.1289
+article: 3
+source_document: text1.pdf
+chunk_number: 1654
+---
+
+Art. 3. W ustawie z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2023 r. poz. 2778) wpro-
+wadza się następujące zmiany:
+1) w art. 12:
+a) uchyla się ust. 2a,
+b) ust. 2b otrzymuje brzmienie:
+„2b. Jeżeli plan transportowy przewiduje wykorzystanie autobusów zeroemisyjnych lub autobusów napędza-
+nych gazem ziemnym, to podlega on konsultacjom odpowiednio z operatorem systemu dystrybucyjnego elektro-
+energetycznego oraz z operatorem systemu dystrybucyjnego gazowego, w rozumieniu przepisów ustawy z dnia
+10 kwietnia 1997 r. – Prawo energetyczne, w zakresie wykorzystania autobusów zeroemisyjnych lub autobusów
+napędzanych gazem ziemnym przy wykonywaniu przewozów pasażerskich w transporcie drogowym w ramach
+komunikacji miejskiej.”;
+2) w art. 14 wyrazy „art. 12 ust. 1–4” zastępuje się wyrazami „art. 12 ust. 1–2 i 2b–4”.
