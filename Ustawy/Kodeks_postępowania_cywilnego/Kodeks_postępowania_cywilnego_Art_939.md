@@ -1,0 +1,22 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 939
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 939
+source_document: kodeks-postepowania.pdf
+chunk_number: 1271
+---
+
+Art. 939. [Wynagrodzenie i zwrot wydatków zarządcy]
+§ 1. Zarządca może żądać wynagrodzenia oraz zwrotu wydatków, które w związku zzarządem
+poniósł z własnych funduszów. Wysokość wynagrodzenia sąd określi odpowiednio do nakładu
+pracy i dochodowości nieruchomości.
+§ 2. Jednakże zarządcy, który jest dłużnikiem, nie należy się wynagrodzenie; może on tylko
+pokrywać z pożytków z nieruchomości najkonieczniejsze potrzeby własne i rodziny w
+rozmiarze, jaki oznaczy sąd, oraz swoje wydatki związane z zarządem.
+§ 3. (uchylony).
+§ 4. Roszczeń o wynagrodzenie za sprawowanie zarządu i o zwrot poniesionych w związku z
+zarządem wydatków nie można dochodzić powództwem. Zarządca traci roszczenia, jeżeli ich nie
+zgłosił w ciągu miesiąca po ustąpieniu z zarządu lub po jego ustaniu.
