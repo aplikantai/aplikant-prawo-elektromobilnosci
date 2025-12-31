@@ -1,0 +1,22 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 633
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 633
+source_document: kodeks-postepowania.pdf
+chunk_number: 966
+---
+
+Art. 633. [Właściwość sądu w sprawach o zabezpieczenie spadku]
+§ 1. Do zabezpieczenia spadku właściwy jest sąd, w którego okręgu znajdują się rzeczy
+będące w chwili otwarcia spadku we władaniu spadkodawcy. Jeżeli przedmiotem
+zabezpieczenia mają być prawa majątkowe należące do spadkodawcy w chwili otwarcia
+spadku, sądem właściwym jest sąd właściwości ogólnej osoby zobowiązanej z tytułu tego
+prawa, a gdy takiej osoby nie ma - sąd, w którego okręgu znajduje się przedmiot świadczenia
+lub prawa. Jeżeli wykonanie prawa majątkowego jest związane z posiadaniem dokumentu,
+właściwy jest sąd, w którego okręgu znajduje się ten dokument.
+§ 2. Sąd, który nie jest sądem spadku, zawiadamia sąd spadku o dokonaniu zabezpieczenia,
+jego uchyleniu oraz zmianie środka zabezpieczenia, przesyłając odpisy postanowień
+wydanych w tym przedmiocie.
