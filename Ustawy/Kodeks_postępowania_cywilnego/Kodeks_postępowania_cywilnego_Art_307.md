@@ -1,0 +1,22 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 307
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 307
+source_document: kodeks-postepowania.pdf
+chunk_number: 640
+---
+
+Art. 307. [Przeprowadzenie dowodu z grupowego badania krwi]
+§ 1. W celu przeprowadzenia dowodu z grupowego badania krwi sąd zwraca się do
+biegłego o pobranie krwi, zbadanie jej i złożenie sprawozdania o wynikach badania łącznie
+z końcową opinią.
+§ 2. Sprawozdanie z grupowego badania krwi powinno zawierać stwierdzenie, czy
+sprawdzono należycie tożsamość osób, których krew pobrano, oraz wskazanie sposobu
+przeprowadzenia badania. Sprawozdanie powinno być podpisane przez osobę, która
+przeprowadziła badanie, a jeżeli krew została pobrana przez inną osobę, pobranie krwi
+powinno być stwierdzone jej podpisem.
+§ 3. Pobranie krwi i przesłanie jej do instytutu, o jakim mowa w art. 290, można zlecić
+biegłemu miejsca zamieszkania stron lub siedziby sądu.
