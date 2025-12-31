@@ -6,16 +6,15 @@ doc_type: USTAWA
 doc_number: Dz.U.2019.1461
 article: 19
 source_document: text.pdf
-chunk_number: 1552
+chunk_number: 1578
 ---
 
-Art. 19. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
-Dziennik Ustaw – 4 – Poz. 1289
-Załącznik do obwieszczenia Marszałka Sejmu Rzeczypospolitej
-Polskiej z dnia 19 sierpnia 2024 r. (Dz. U. poz. 1289)
-USTAWA
-z dnia 11 stycznia 2018 r.
-o elektromobilności i paliwach alternatywnych1)
-Rozdział 1
-Przepisy ogólne
+Art. 19. Minister właściwy do spraw energii określi, w drodze rozporządzenia:
+1) szczegółowe wymagania techniczne, jakie muszą spełniać punkty zasilania jednostek pływających energią elektryczną
+z lądu, w zakresie bezpieczeństwa eksploatacji, naprawy i modernizacji tych punktów,
+2) rodzaje badań punktów zasilania jednostek pływających energią elektryczną z lądu przeprowadzanych przez TDT oraz
+sposób i terminy ich przeprowadzania,
+3) wysokość opłaty, o której mowa w art. 18 ust. 5 i art. 18a ust. 3
+– kierując się koniecznością zapewnienia bezpieczeństwa zasilania jednostek pływających, jednolitości rozwiązań technicz-
+nych i bezpieczeństwa działania sieci, dostępu dla osób niepełnosprawnych oraz biorąc pod uwagę zakres badania przepro-
+wadzanego przez TDT oraz rodzaj przedmiotu badania.
