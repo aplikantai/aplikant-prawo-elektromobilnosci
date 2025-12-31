@@ -1,0 +1,27 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 655
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 655
+source_document: kodeks-postepowania.pdf
+chunk_number: 988
+---
+
+Art. 655. [Nakaz wyjawienia przedmiotów spadkowych]
+§ 1. Jeżeli po sporządzeniu spisu inwentarza zachodzi wątpliwość, czy zostały w nim
+zamieszczone wszystkie przedmioty należące do spadku i przedmioty zapisów
+windykacyjnych lub czy zamieszczone w spisie inwentarza długi spadkowe istnieją, sąd
+spadku z urzędu lub na wniosek spadkobiercy, zapisobiercy windykacyjnego, wykonawcy
+testamentu, tymczasowego przedstawiciela lub wierzyciela spadku może nakazać
+spadkobiercy złożenie:
+1) oświadczenia, że żadnego przedmiotu spadkowego nie zataił ani nie usunął oraz że nie
+podał do spisu inwentarza nieistniejących długów;
+2) wykazu przedmiotów spadkowych nieujawnionych w spisie inwentarza, jeżeli mu są
+wiadome, z podaniem miejsca przechowania ruchomości i dokumentów dotyczących praw
+majątkowych, jak również z wyjaśnieniem podstawy prawnej tych praw;
+3) zapewnienia, że złożone oświadczenie lub wykaz są prawidłowe i zupełne.
+§ 2. Wierzyciel spadku może zgłosić powyższe wnioski tylko wówczas, gdy
+uprawdopodobni, że ujawniony w spisie inwentarza stan czynny spadku nie wystarcza na
+zaspokojenie długów spadkowych.
