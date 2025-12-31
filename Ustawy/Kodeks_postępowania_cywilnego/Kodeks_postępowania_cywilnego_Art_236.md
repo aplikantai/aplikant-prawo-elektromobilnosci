@@ -1,0 +1,20 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 236
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 236
+source_document: kodeks-postepowania.pdf
+chunk_number: 569
+---
+
+Art. 236. [Postanowienie dowodowe]
+§ 1. W postanowieniu o dopuszczeniu dowodu sąd oznaczy środek dowodowy i fakty,
+które mają nim zostać wykazane, a w miarę potrzeby i możliwości - także termin i miejsce
+przeprowadzenia dowodu.
+§ 2. Jeżeli o wydanie postanowienia w przedmiocie dopuszczenia dowodu wnosiła strona,
+w postanowieniu wystarczy powołać się na treść jej wniosku.
+§ 3. Zlecając przeprowadzenie dowodu sędziemu wyznaczonemu albo sądowi
+wezwanemu, sąd oznaczy tego sędziego albo ten sąd. Jeżeli nie oznaczono terminu lub
+miejsca przeprowadzenia dowodu, oznaczy je sędzia wyznaczony albo sąd wezwany.
