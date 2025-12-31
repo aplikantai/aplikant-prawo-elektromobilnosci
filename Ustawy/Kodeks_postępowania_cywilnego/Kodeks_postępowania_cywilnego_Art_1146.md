@@ -1,0 +1,33 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 1146
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 1146
+source_document: kodeks-postepowania.pdf
+chunk_number: 1478
+---
+
+Art. 1146. [Przesłanki uznania]
+§ 1. Orzeczenie nie podlega uznaniu, jeżeli:
+1) nie jest prawomocne w państwie, w którym zostało wydane;
+2) zapadło w sprawie należącej do wyłącznej jurysdykcji sądów polskich;
+3) pozwanemu, który nie wdał się w spór co do istoty sprawy, nie doręczono należycie i w
+czasie umożliwiającym podjęcie obrony pisma wszczynającego postępowanie;
+4) strona w toku postępowania była pozbawiona możności obrony;
+5) sprawa o to samo roszczenie między tymi samymi stronami zawisła w Rzeczypospolitej
+Polskiej wcześniej niż przed sądem państwa obcego;
+6) jest sprzeczne z wcześniej wydanym prawomocnym orzeczeniem sądu polskiego albo
+wcześniej wydanym prawomocnym orzeczeniem sądu państwa obcego, spełniającym przesłanki
+jego uznania w Rzeczypospolitej Polskiej, zapadłymi w sprawie o to samo roszczenie między
+tymi samymi stronami;
+7) uznanie byłoby sprzeczne z podstawowymi zasadami porządku prawnego Rzeczypospolitej
+Polskiej (klauzula porządku publicznego).
+§ 2. Przeszkody określone w § 1 pkt 5 i 6 stosuje się odpowiednio do sprawy zawisłej przed
+innym niż sąd organem polskim lub organem państwa obcego oraz do rozstrzygnięcia wydanego
+przez inny niż sąd organ polski lub organ państwa obcego.
+§ 3. Przepisów § 1 pkt 5 i 6 nie stosuje się, gdy orzeczenie sądu państwa obcego stwierdza,
+zgodnie z przepisami tego państwa o jurysdykcji krajowej, nabycie przez osobę mieszkającą albo
+mającą siedzibę w Rzeczypospolitej Polskiej mienia spadkowego znajdującego się w chwili
+śmierci spadkodawcy na obszarze państwa obcego.
