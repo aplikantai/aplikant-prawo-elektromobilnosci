@@ -1,0 +1,19 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 719
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 719
+source_document: kodeks-postepowania.pdf
+chunk_number: 1051
+---
+
+Art. 719. [Właściwość sądu]
+§ 1. Do odtworzenia akt sprawy będącej w toku właściwy jest sąd, w którym sprawa ostatnio się
+toczyła.
+§ 2. Jeżeli właściwy byłby sąd drugiej instancji lub Sąd Najwyższy, sąd ten przekaże sprawę
+sądowi pierwszej instancji, chyba że chodzi o odtworzenie tylko akt sądu drugiej instancji lub akt
+Sądu Najwyższego.
+§ 3. Postępowanie w razie zaginięcia lub zniszczenia akt w sprawie prawomocnie zakończonej
+przeprowadza sąd, w którym sprawa toczyła się w pierwszej instancji.
