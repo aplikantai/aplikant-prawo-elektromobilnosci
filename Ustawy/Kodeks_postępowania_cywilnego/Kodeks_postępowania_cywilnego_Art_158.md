@@ -1,0 +1,55 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 158
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 158
+source_document: kodeks-postepowania.pdf
+chunk_number: 491
+---
+
+Art. 158. [Treść protokołu]
+§ 1. Protokół sporządzony pisemnie zawiera oznaczenie sądu, miejsca i daty posiedzenia,
+nazwiskasędziów, protokolanta, prokuratora, stron, interwenientów, jak również obecnych na
+posiedzeniu przedstawicieli ustawowych i pełnomocników oraz oznaczenie sprawy i
+wzmianki co do jawności. Ponadto protokół sporządzony pisemnie zawiera wymienienie
+zarządzeń i orzeczeń wydanych na posiedzeniu oraz stwierdzenie, czy zostały ogłoszone,
+streszczenie wyników postępowania dowodowego, a także czynności stron wpływające na
+rozstrzygnięcie sądu (ugoda, zrzeczenie się roszczenia, uznanie powództwa, cofnięcie, zmiana,
+rozszerzenie lub ograniczenie żądania pozwu) oraz inne czynności stron, które według
+szczególnych przepisów ustawy powinny być wciągnięte, wpisane, przyjęte, złożone,
+zgłoszone lub wniesione do protokołu. Jeżeli sporządzenie odrębnej sentencji orzeczenia nie
+jest wymagane, wystarcza zamieszczenie w protokole treści samego rozstrzygnięcia.
+Czynności wymagające podpisu strony mogą być zamieszczane w odrębnym dokumencie
+stanowiącym część protokołu.
+1
+§ 1 . Protokół, o którym mowa w § 1, może zawierać wnioski i twierdzenia stron oraz inne
+okoliczności istotne dla przebiegu posiedzenia; zamiast wniosków i twierdzeń można w
+protokole powołać się na pisma przygotowawcze.
+§ 2. Jeżeli przebiegu posiedzenia nie utrwalasię za pomocąurządzenia rejestrującego dźwięk
+albo obraz i dźwięk, protokół sporządzony pisemnie zawiera, oprócz danych i okoliczności
+określonych w § 1, wnioski oraz twierdzenia stron, udzielone pouczenia, a także wyniki
+postępowania dowodowego oraz inne okoliczności istotne dla przebiegu posiedzenia; zamiast
+wniosków i twierdzeń można w protokole powołać się na pisma przygotowawcze.
+§ 3. Protokół sporządzony za pomocą urządzenia rejestrującego dźwięk albo obraz i dźwięk
+protokolant podpisuje podpisem elektronicznym gwarantującym identyfikację osoby
+protokolanta oraz rozpoznawalność jakiejkolwiek późniejszej zmiany protokołu. Protokół
+sporządzony pisemnie podpisują przewodniczący i protokolant.
+§ 4. Jeżeli jest to niezbędne dla zapewnienia prawidłowego orzekania w sprawie,
+przewodniczący może zarządzić sporządzenie transkrypcji odpowiedniej części protokołu
+sporządzonego za pomocą urządzenia rejestrującego dźwięk albo obraz i dźwięk.
+§ 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, rodzaje urządzeń i środków
+technicznych służących do utrwalania dźwięku albo obrazu i dźwięku, sposób sporządzania
+zapisów dźwięku albo obrazu i dźwięku oraz sposób identyfikacji osób je sporządzających, jak
+również sposób udostępniania oraz przechowywania takich zapisów, mając na uwadze:
+1) konieczność właściwego zabezpieczenia zapisu dźwięku albo obrazu i dźwięku przed
+ich utratą, zniekształceniem, nieuprawnionym dostępem, usunięciem lub inną
+nieuprawnioną zmianą, a także rozpoznawalność dokonania uprawnionej zmiany lub
+usunięcia i identyfikacji osoby dokonującej tych czynności;
+2) minimalne wymagania dla systemów teleinformatycznych używanych do realizacji
+zadań publicznych, określone w odrębnych przepisach;
+3) konieczność zmiany formatu zapisu dźwięku albo obrazu i dźwięku lub przeniesienia
+na inny informatyczny nośnik danych w celu ponownego odtworzenia zapisu;
+4) konieczność zapewnienia możliwości zapoznania się z zapisem dźwięku albo obrazu i
+dźwięku oraz uzyskania z akt sprawy zapisu dźwięku albo obrazu i dźwięku.
