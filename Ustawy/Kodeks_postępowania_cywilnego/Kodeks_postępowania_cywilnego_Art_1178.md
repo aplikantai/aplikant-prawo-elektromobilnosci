@@ -1,0 +1,19 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 1178
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 1178
+source_document: kodeks-postepowania.pdf
+chunk_number: 1510
+---
+
+Art. 1178. [Arbiter zastępczy]
+§ 1. W razie wygaśnięcia powołania arbitra nowy (zastępczy) arbiter jest powoływany w sposób,
+który jest przewidziany dla powołania arbitra.
+§ 2. Jeżeli ustąpienie lub odwołanie przez strony lub sąd arbitra powołanego przez jedną ze stron
+miało miejsce dwukrotnie, druga strona może zażądać, aby sąd wyznaczył nowego (zastępczego)
+arbitra za stronę przeciwną. Z wnioskiem takim strona może wystąpić w terminie tygodnia od dnia,
+w którym dowiedziała się, że nowy (zastępczy) arbiter powołany przez stronę przeciwną ustąpił lub
+został odwołany.
