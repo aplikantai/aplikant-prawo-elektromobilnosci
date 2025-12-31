@@ -1,0 +1,45 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 485
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 485
+source_document: kodeks-postepowania.pdf
+chunk_number: 818
+---
+
+Art. 485. [Podstawy wydania nakazu zapłaty]
+§ 1. Sąd wydaje nakaz zapłaty w postępowaniu nakazowym, jeżeli fakty uzasadniające
+dochodzone roszczenie są udowodnione dołączonym do pozwu:
+1) dokumentem urzędowym;
+2) zaakceptowanym przez dłużnika rachunkiem;
+3) wezwaniem dłużnika do zapłaty i pisemnym oświadczeniem dłużnika o uznaniu długu;
+4) (uchylony).
+§ 2. Sąd wydaje również nakaz zapłaty przeciwko zobowiązanemu z weksla lub czeku
+należycie wypełnionego, których prawdziwośći treść nie nasuwająwątpliwości. Wprzypadku
+przejścia na powoda praw z weksla lub czeku, do wydania nakazu niezbędne jest również
+przedstawienie dokumentów uzasadniających roszczenie, o ile przejście tych praw na powoda
+nie wynika bezpośrednioz weksla lub czeku. Jeżeli dłużnikiem jest konsument, niezbędne jest
+przedstawienie wraz z pozwem umowy, z której wynika roszczenie zabezpieczone wekslem,
+wraz z deklaracją wekslową i załącznikami. W treści pozwu skierowanego przeciwko osobie
+fizycznejzamieszcza się oświadczenieo tym,czy roszczeniedochodzone pozwem powstało w
+związku z umową zawartą z konsumentem.
+1
+§ 2 . Sąd wydaje nakaz zapłaty na podstawie dołączonej do pozwu umowy, dowodu
+spełnienia wzajemnego świadczenia niepieniężnego, dowodu doręczenia dłużnikowi faktury
+lub rachunku, jeżeli powód dochodzi należności zapłaty świadczenia pieniężnego w
+rozumieniu art. 4 pkt 1a ustawy z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym
+opóźnieniomw transakcjach handlowych (Dz.U. z2023 r. poz.1790), odsetek w transakcjach
+handlowych określonych w tej ustawie lub rekompensaty, o której mowa w art. 10 ust. 1 tej
+ustawy, oraz na podstawie dokumentów potwierdzających poniesienie kosztów odzyskiwania
+należności, jeżeli powód dochodzi również zwrotu kosztów, o których mowa w art. 10 ust. 2
+tej ustawy.
+§ 3. (uchylony).
+§ 4. Jeżeli nie dołączono oryginału weksla lub czeku lub w treści pozwu nie zamieszczono
+oświadczenia, o którym mowa w § 2 zdanie czwarte, przewodniczący wzywa powoda do ich
+złożenia pod rygorem zwrotu pozwu na podstawie art. 130.
+§ 5. Sąd może skazać na grzywnę powoda, jego przedstawiciela ustawowego lub
+pełnomocnika, który w złej wierze lub wskutek niezachowania należytej staranności złożył
+niezgodne z prawdą oświadczenie, o którym mowa w § 2 zdanie czwarte, że roszczenie
+dochodzone pozwem nie powstało w związku z umową zawartą z konsumentem.
