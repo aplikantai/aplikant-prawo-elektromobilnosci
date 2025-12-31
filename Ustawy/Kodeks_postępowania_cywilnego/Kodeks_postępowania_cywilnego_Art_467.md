@@ -1,0 +1,31 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 467
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 467
+source_document: kodeks-postepowania.pdf
+chunk_number: 800
+---
+
+Art. 467. [Wezwanie do usunięcia braków pisma wszczynającego postępowanie]
+§ 1. (uchylony).
+§ 2. (uchylony).
+§ 3. (uchylony).
+1
+§ 3 . Stronę wnoszącą pismo wszczynające postępowanie wzywa się do usunięcia jego
+braków, tylkogdy braki te uniemożliwiają przeprowadzenie posiedzenia przygotowawczego z
+udziałem strony wnoszącej pismo.
+2
+§ 3 . Posiedzenie przygotowawcze służy także usunięciu braków pisma wszczynającego
+postępowanie w zakresie niezbędnym do nadania sprawie prawidłowego biegu oraz, w razie
+potrzeby, ustaleniu przez sąd dowodów do przeprowadzenia z urzędu, a także wyjaśnieniu
+innych okoliczności istotnych dla prawidłowego i szybkiego rozpoznania sprawy.
+§ 4. Jeżeli w sprawie z zakresu ubezpieczeń społecznych okaże się, że występują istotne
+braki w materiale, a jego uzupełnienie w postępowaniu sądowym byłoby połączone ze
+znacznymi trudnościami, przewodniczący może zwrócić organowi rentowemu akta sprawy w
+celu uzupełnienia materiału sprawy. To samo dotyczy przypadku, w którym decyzja organu
+rentowego nie zawiera:
+1) podstawy prawnej i faktycznej;
+2) wskazania sposobu wyliczenia świadczenia.
