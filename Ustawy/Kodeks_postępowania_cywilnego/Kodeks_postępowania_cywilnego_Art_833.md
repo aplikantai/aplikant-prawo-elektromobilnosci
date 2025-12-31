@@ -1,0 +1,76 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 833
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 833
+source_document: kodeks-postepowania.pdf
+chunk_number: 1165
+---
+
+Art. 833. [Ograniczenia egzekucji z innych świadczeń pieniężnych]
+§ 1. Wynagrodzenie ze stosunku pracy podlega egzekucji w zakresie określonym w przepisach
+Kodeksu pracy.
+1 34 1
+§ 1 . Przepisy art. 87 i art. 87 Kodeksu pracy stosuje się odpowiednio do zasiłków dla
+bezrobotnych, dodatków aktywizacyjnych oraz stypendiów, wypłacanych na podstawie ustawy z
+dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620).
+1
+§ 2. Przepisy art. 87 i art. 87 Kodeksu pracy stosuje się odpowiednio do uposażeń posłów i
+senatorów, należności członków rolniczych spółdzielni produkcyjnych i ich domowników z tytułu
+pracy w spółdzielni, wynagrodzeń członków spółdzielni pracy.
+1 1
+§ 2 . Przepisy art.87 i art. 87 Kodeksupracy stosuje się odpowiednio dowszystkich świadczeń
+powtarzających się, których celem jest zapewnienie utrzymania albo stanowiących jedyne źródło
+dochodu dłużnika będącego osobą fizyczną.
+1
+§ 3. Ograniczeń przewidzianychw § 2 i 2 nie stosuje się dowierzytelności członków rolniczych
+spółdzielni produkcyjnych z tytułu udziału w dochodach spółdzielni przypadających im od
+wniesionych do spółdzielni wkładów.
+§ 4. Świadczenia pieniężne przewidziane w przepisach o zaopatrzeniu emerytalnym podlegają
+egzekucji w zakresie określonym w tych przepisach.
+§ 5. Do egzekucji zrentprzysługujących z tytułu wypadkuprzy pracy lub choroby zawodowej iz
+rent zasądzonych przez sąd lub ustalonych umową za utratę zdolności do pracy albo za śmierć
+żywiciela lub wypłacanych z dobrowolnego ubezpieczenia rentowego oraz do egzekucji ze
+świadczeń pieniężnych przysługujących z ubezpieczenia społecznego w razie choroby i
+macierzyństwa stosuje się przepisy o egzekucji ze świadczeń przewidzianych w przepisach o
+zaopatrzeniu emerytalnym pracowników i ich rodzin.
+§ 6. Nie podlegają egzekucji świadczenia alimentacyjne, świadczenia pieniężne wypłacane w
+przypadku bezskuteczności egzekucji alimentów, świadczenia rodzinne, dodatki rodzinne,
+pielęgnacyjne, porodowe, dla sierot zupełnych, zasiłki dla opiekunów, świadczenia z pomocy
+społecznej, świadczenia integracyjne, świadczenie wychowawcze, świadczenie dobry start,
+jednorazowe świadczenie, o którym mowa w art. 10 ustawy z dnia 4 listopada 2016 r. o wsparciu
+kobiet w ciąży i rodzin "Za życiem" (Dz. U. z 2023 r. poz. 1923), dodatek osłonowy, o którym
+mowa w ustawie z dnia 17 grudnia 2021 r. o dodatku osłonowym (Dz. U. z 2024 r. poz. 953),
+dodatekwęglowy, o którym mowa w ustawie z dnia 5 sierpnia 2022 r. o dodatku węglowym (Dz.
+U. z2024 r. poz.1207), dodatekdla gospodarstw domowych ztytułu wykorzystywanianiektórych
+źródeł ciepła i dodatek dla niektórych podmiotów niebędących gospodarstwami domowymi z
+tytułuwykorzystania niektórychźródeł ciepła, o których mowa w ustawie zdnia 15 września 2022
+r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na
+rynku paliw (Dz. U. z 2023 r. poz. 1772, 1693 i 2760 oraz z 2024 r. poz. 859), dodatek
+elektryczny, o którym mowa w ustawie z dnia 7 października 2022 r. o szczególnych
+rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku
+w związku z sytuacją na rynku energii elektrycznej (Dz. U. z 2024 r. poz. 1288), refundacja
+podatku VAT, o której mowa w art. 18 ustawy z dnia 15 grudnia 2022 r. o szczególnej ochronie
+niektórych odbiorców paliw gazowych w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku
+gazu (Dz. U. z 2024 r. poz. 303, 834 i 859), bon energetyczny, o którym mowa w ustawie z dnia
+23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen
+energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. poz. 859), świadczenie
+wspierające,o którym mowa w ustawiez dnia 7 lipca 2023 r.o świadczeniu wspierającym (Dz. U.
+poz. 1429 i 2760), a także świadczenia "aktywny rodzic", o których mowa w ustawie z dnia 15
+maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka -
+"Aktywny rodzic" (Dz. U. poz. 858).
+§ 7. Niepodlegają egzekucji świadczenia,dodatki iinne kwoty, o których mowa w art.31 ust. 1,
+art. 80 ust. 1, art. 81, art. 83 ust. 1 i 4, art. 84 pkt 2 i 3 i art. 140 ust. 1 pkt 1 ustawy z dnia 9
+czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, oraz środki finansowe na
+utrzymanie lokalu mieszkalnego w budynku wielorodzinnym lub domu jednorodzinnego, o
+którychmowa w art. 83ust. 2 i art. 84pkt 1 ustawy zdnia 9 czerwca 2011 r.o wspieraniu rodziny
+i systemie pieczy zastępczej, w części przysługującej na umieszczone w rodzinie zastępczej lub
+rodzinnym domu dziecka dzieci i osoby, które osiągnęły pełnoletność przebywając w pieczy
+zastępczej.
+§ 8. Nie podlegają egzekucji dodatki mieszkaniowe wypłacone na podstawie ustawy z dnia 21
+czerwca 2001 r. o dodatkach mieszkaniowych (Dz. U. z 2023 r. poz. 1335) oraz dodatki
+energetyczne wypłacone na podstawie ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne.
+§ 9. Nie podlegają egzekucji zapomogi udzielone na podstawie ustawy z dnia 11 sierpnia 2021 r.
+o kasach zapomogowo-pożyczkowych (Dz. U. poz. 1666).
