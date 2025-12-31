@@ -1,0 +1,14 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 894
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 894
+source_document: kodeks-postepowania.pdf
+chunk_number: 1226
+---
+
+Art. 894. (uchylony).
+DZIAŁ IV
+Egzekucja z innych wierzytelności
