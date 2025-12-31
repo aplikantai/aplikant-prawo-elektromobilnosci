@@ -1,0 +1,32 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 1081
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 1081
+source_document: kodeks-postepowania.pdf
+chunk_number: 1413
+---
+
+Art. 1081. [Brak obowiązku wskazywania sposobu egzekucji imajątku dłużnika; właściwość
+przemienna komornika]
+§ 1. Jeżeli egzekucja dotyczy alimentów lub renty mającej charakter alimentów, wniosek o
+wszczęcie egzekucji można zgłosić również do komornika sądu właściwego ze względu na miejsce
+zamieszkania wierzyciela.
+§ 2. Komornik ten jest obowiązany zawiadomić o wszczęciu egzekucji komornika sądu ogólnej
+właściwości dłużnika. Komornik zawiadomiony zażąda przekazania mu sprawy wraz ze
+ściągniętymi kwotami, jeżeli wskutek dalszych zajęć suma uzyskana ze wszystkich egzekucji nie
+wystarcza na zaspokojenie wszystkich wierzycieli. Jeżeli dokonane zostało zajęcie wynagrodzenia
+za pracę lub wierzytelności, równocześnie z przekazaniem sprawy komornik zawiadamia
+pracodawcę, dłużnika, względnie wierzyciela zajętej wierzytelności, że dalszych wpłat należy
+dokonywać komornikowi, któremu sprawę przekazano.
+§ 3. Jeżeli dłużnik odbywa karę pozbawienia wolności, wierzyciel może złożyć tytuł
+wykonawczy bezpośrednio dyrektorowi zakładu karnego, który obowiązany jest wypłacać
+wierzycielowi należnościza pracę dłużnika lub jego pieniądze znajdującesię w depozycie zakładu
+karnego, w granicach określonych w art. 125 Kodeksu karnego wykonawczego.
+§ 4. Przewidziana w § 3 wypłata nie może być dokonywana, jeżeli wnioski złożyło kilku
+wierzycieli, a należności za pracę dłużnika lub jego pieniądze znajdujące się w depozycie zakładu
+karnego nie wystarczają na zaspokojenie wszystkich należności tych wierzycieli lub jeżeli są zajęte
+przez organ egzekucyjny. W takim wypadku dyrektor zakładu karnego przekazuje wnioski do
+właściwego komornika.
