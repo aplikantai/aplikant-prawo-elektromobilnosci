@@ -1,0 +1,18 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 140
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 140
+source_document: kodeks-postepowania.pdf
+chunk_number: 473
+---
+
+Art. 140. [Odpisy]
+§ 1. Pisma i orzeczenia doręcza się w odpisach.
+§ 2. Zamiast odpisu pisma lub orzeczenia może być doręczony dokument uzyskany z
+systemu teleinformatycznego, o ile ma on cechy umożliwiające weryfikację istnienia i treści
+pisma lub orzeczenia w tym systemie.
+§ 3. W przypadku doręczenia elektronicznego pisma i orzeczenia mają postać dokumentów
+zawierających dane z systemu teleinformatycznego.
