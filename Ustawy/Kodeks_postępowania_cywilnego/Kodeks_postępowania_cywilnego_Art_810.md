@@ -1,0 +1,21 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 810
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 810
+source_document: kodeks-postepowania.pdf
+chunk_number: 1142
+---
+
+Art. 810. [Godziny wykonywania czynności poza kancelarią komorniczą; egzekucja w dni
+wolne od pracy i w porze nocnej]
+§ 1. Komornik może wykonywać czynności poza kancelarią komorniczą w dni robocze, w
+godzinach od siódmej do dwudziestej pierwszej. Na wykonanie czynności w dni ustawowo wolne
+od pracy lub godzinach nocnych jest wymagana zgoda prezesa właściwego sądu rejonowego.
+§ 2. Czynności komornika rozpoczęte przed godziną dwudziestą pierwszą mogą byćprowadzone
+w dalszym ciągu bez zgody, o której mowa w § 1, jeżeli ich przerwanie może znacznie utrudnić
+egzekucję. Przepisu zdania pierwszego nie stosuje się do czynności prowadzonych w miejscu
+zamieszkania dłużnika, chyba że jest to również miejsce prowadzenia przez niego działalności
+gospodarczej.
