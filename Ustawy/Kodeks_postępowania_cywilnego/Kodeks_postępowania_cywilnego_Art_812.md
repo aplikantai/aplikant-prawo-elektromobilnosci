@@ -1,0 +1,21 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 812
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 812
+source_document: kodeks-postepowania.pdf
+chunk_number: 1144
+---
+
+Art. 812. [Świadkowie czynności egzekucyjnych]
+§ 1. Wierzyciel i dłużnik mogą być obecni przy czynnościach egzekucyjnych. Na żądanie stron
+albo według uznania komornika mogą być obecni takżeświadkowie, chyba że zachodzi obawa, że
+wskutek straty czasu na przywołanie świadków egzekucja będzie udaremniona. Świadków
+przywołuje się w liczbie nie większej niż po dwóch z każdej strony.
+§ 2. Komornik powinien przywołać jednego lub dwóch świadków, jeżeli dłużnik nie jest obecny
+lub komornik go wydalił, chyba że zachodzi obawa, iż wskutek straty czasu na przywołanie
+świadków egzekucja będzie udaremniona.
+§ 3. Świadkami mogą być także członkowie rodziny i domownicy dłużnika.
+§ 4. Świadkowie nie otrzymują wynagrodzenia.
