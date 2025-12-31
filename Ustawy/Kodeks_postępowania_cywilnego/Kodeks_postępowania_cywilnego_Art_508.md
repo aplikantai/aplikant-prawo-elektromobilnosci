@@ -1,0 +1,28 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 508
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 508
+source_document: kodeks-postepowania.pdf
+chunk_number: 841
+---
+
+Art. 508. [Właściwość miejscowa]
+§ 1. Jeżeli właściwość miejscowa nie jest oznaczona w przepisie szczególnym, wyłącznie
+właściwy jest sąd miejsca zamieszkania wnioskodawcy, a w braku miejsca zamieszkania - sąd
+miejsca jego pobytu. Do postępowania z urzędu właściwy jest sąd miejsca, w którego okręgu
+nastąpiło zdarzenie będące podstawą wszczęcia postępowania. W braku wskazanych wyżej
+podstaw właściwy będzie sąd dla m.st. Warszawy.
+§ 2. W wypadku gdy sąd właściwy nie może zpowodu przeszkody rozpoznać sprawy lub podjąć
+innejczynności albo gdy wymagajątego względy celowości, sąd nad nimprzełożony wyznaczy na
+posiedzeniu niejawnym inny sąd do rozpoznania sprawy w całości lub w części.
+§ 3. Wyznaczenie następuje z urzędu albo na przedstawienie sądu właściwego, albo też na
+wniosek właściwego organu lub osoby zainteresowanej, po wysłuchaniu w razie potrzeby innych
+osób zainteresowanych.
+1
+§ 4. Przepisu art. 48 nie stosuje się w sprawach rozpoznawanych w postępowaniu
+wieczystoksięgowym i postępowaniu rejestrowym, a także w sprawach z zakresu prawa
+spadkowego, z wyjątkiem spraw o stwierdzenie nabycia spadku i przedmiotu zapisu
+windykacyjnego oraz o dział spadku.
