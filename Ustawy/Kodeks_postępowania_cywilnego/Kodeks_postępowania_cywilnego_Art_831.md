@@ -1,0 +1,69 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 831
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 831
+source_document: kodeks-postepowania.pdf
+chunk_number: 1163
+---
+
+Art. 831. [Sumy, świadczenia, prawa i wierzytelności niepodlegające egzekucji]
+§ 1. Nie podlegają egzekucji:
+1) sumy i świadczenia w naturze wyasygnowane na pokrycie wydatków lub wyjazdów w
+sprawach służbowych;
+1a) 50% kwot dietprzysługujących ztytułu podróży służbowych- jeżeli egzekucja ma na celu
+zaspokojenie roszczeń z tytułu alimentów, w tym należności budżetu państwa z tytułu
+świadczeń wypłacanych w przypadku bezskuteczności egzekucji alimentów;
+2) sumy przyznane przez Skarb Państwa na specjalne cele (w szczególności stypendia,
+wsparcia), chyba że wierzytelność egzekwowana powstała w związku z urzeczywistnieniem
+tych celów albo z tytułu obowiązku alimentacyjnego;
+2a) środki pochodzące z programów finansowanych z udziałem środków, o których mowa w
+art.5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023
+r. poz. 1270, z późn. zm.), wypłacone w formiezaliczki, chyba że wierzytelność egzekwowana
+powstała w związku z realizacją projektu, na który środki te były przeznaczone;
+3) prawa niezbywalne, chyba że możność ich zbycia wyłączono umową, a przedmiot
+świadczenia nadaje się do egzekucji albo wykonanie prawa może być powierzone komu
+innemu;
+4) (utracił moc);
+5) świadczenia z ubezpieczeń osobowych oraz odszkodowania z ubezpieczeń majątkowych, w
+33
+granicach określonych w drodze rozporządzenia przez Ministrów Finansów i
+Sprawiedliwości; nie dotyczy to egzekucji mającej na celu zaspokojenie roszczeń z tytułu
+alimentów;
+6) świadczenia z pomocyspołecznej w rozumieniu przepisów ustawy zdnia 12 marca 2004 r.
+o pomocy społecznej (Dz. U. z 2024 r. poz. 1283);
+6a) jednorazowa lub okresowa pomoc pieniężna przyznawana przez Szefa Urzędu do Spraw
+Kombatantów i Osób Represjonowanych;
+7) wierzytelności przypadające dłużnikowi z budżetu państwa lub od Narodowego Funduszu
+Zdrowia z tytułu udzielania świadczeń opieki zdrowotnej w rozumieniu przepisów ustawy z
+dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków
+publicznych (Dz. U. z 2024 r. poz. 146, 858 i 1222) przed ukończeniem udzielania tych
+świadczeń, w wysokości 75% każdorazowej wypłaty, chyba że chodzi o wierzytelności
+pracowników dłużnika lub świadczeniodawców, o których mowa w art. 5 pkt 41 lit. a i b
+ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze
+środków publicznych;
+8) sumy przyznane orzeczeniem Europejskiego Trybunału Praw Człowieka, jeżeli
+egzekwowana wierzytelność przysługuje Skarbowi Państwa;
+9) świadczenie integracyjne w rozumieniu ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu
+socjalnym (Dz. U. z 2022 r. poz. 2241);
+10) wierzytelności przysługujące spółdzielni mieszkaniowej wobec członków spółdzielni i
+osóbniebędących członkamispółdzielni, którym przysługuje spółdzielcze prawo dolokalu albo
+własność lokalu, z tytułu opłat, o których mowa w art. 4 ustawy z dnia 15 grudnia 2000 r. o
+spółdzielniach mieszkaniowych (Dz. U. z 2024 r. poz. 558), jak również środki, będące w
+dyspozycji spółdzielni w związku z wnoszeniem tych opłat, chyba że wierzytelność
+egzekwowana powstała w związku z wykonaniem przez wierzyciela zobowiązań, które miały
+być zaspokojone z opłat, o których mowa w art. 4 tej ustawy.
+§ 2. W przypadkach, o których mowa w § 1 pkt 1-2a i 7,nie podlegają egzekucji również sumy i
+świadczenia w naturze już wypłacone lub wydane, a w przypadku, o którym mowa w § 1 pkt 2a,
+nie podlegają egzekucji również środki trwałe oraz wartości niematerialne i prawne powstałe w
+ramach realizacji projektu, na który były przeznaczone środki pochodzące z programów
+finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27
+sierpnia 2009 r. o finansach publicznych, przez okres jego realizacji wskazany w umowie o
+dofinansowanie projektu.
+§ 3. (uchylony).
+§ 4. Przepis § 1 pkt 10 stosuje się odpowiednio do wierzytelności przysługujących spółdzielni
+mieszkaniowej wobec najemców spółdzielczych lokali mieszkalnych, które przed przejęciem przez
+spółdzielnię mieszkaniową były mieszkaniami przedsiębiorstwa państwowego, państwowej osoby
+prawnej, spółki Skarbu Państwa lub innej państwowej jednostki organizacyjnej.
