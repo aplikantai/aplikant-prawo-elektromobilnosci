@@ -1,0 +1,26 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 103
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 103
+source_document: kodeks-postepowania.pdf
+chunk_number: 436
+---
+
+Art. 103. [Koszty wywołane niesumiennym lub oczywiście niewłaściwym postępowaniem]
+§ 1. Niezależnie od wyniku sprawy sąd może włożyć na stronę lub interwenienta obowiązek
+zwrotu kosztów, wywołanych ich niesumiennym lub oczywiście niewłaściwym postępowaniem.
+§ 2. Przepis § 1 dotyczy zwłaszcza kosztów powstałych wskutek uchylenia się od wyjaśnień
+lub złożenia wyjaśnień niezgodnych z prawdą, zatajenia lub opóźnionego powołania dowodów,
+a także oczywiście nieuzasadnionej odmowy poddania się mediacji.
+§ 3. Jeżeli strona:
+1) pomimo wezwania do osobistego stawiennictwa nie stawiła się w celu udziału w
+czynności sądu i nie usprawiedliwiła swego niestawiennictwa,
+2) w toku postępowania bez usprawiedliwienia nie stawiła się na posiedzenie mediacyjne
+pomimo wcześniejszego wyrażenia zgody na mediację
+- sąd może, niezależnie od wyniku sprawy, włożyć na tę stronę obowiązek zwrotu kosztów w
+części wyższej, niż nakazywałby to wynik sprawy, a nawet zwrotu kosztów w całości.
+§ 4. O możliwości tej sąd poucza strony przy wezwaniu do osobistego stawiennictwa lub przy
+skierowaniu stron do mediacji.
