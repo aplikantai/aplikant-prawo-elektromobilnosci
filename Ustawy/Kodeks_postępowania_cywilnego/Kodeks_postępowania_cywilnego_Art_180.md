@@ -1,0 +1,44 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 180
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 180
+source_document: kodeks-postepowania.pdf
+chunk_number: 513
+---
+
+Art. 180. [Podjęcie zawieszonego postępowania z urzędu]
+§ 1. Sąd postanowi podjąć postępowanie z urzędu, gdy ustanie przyczyna zawieszenia, w
+szczególności:
+1) w razie śmierci strony - z chwilą zgłoszenia się lub wskazania następców prawnych
+zmarłego albo z chwilą ustanowienia we właściwej drodze kuratora spadku;
+2) w razie utraty zdolności sądowej - z chwilą ustalenia ogólnego następcy prawnego;
+3) w razie braku przedstawiciela ustawowego - z chwilą jego ustanowienia;
+1
+3 ) w razie braku w składzie organów jednostki organizacyjnej będącej stroną - z chwilą
+wyboru albo powołania tego organu, a w przypadku gdy dla strony ustanowiono kuratora
+umocowanego do podejmowania czynności za stronę - z chwilą jego ustanowienia;
+4) gdy rozstrzygnięcie sprawy zależy od wyniku innego postępowania - z chwilą
+uprawomocnienia się orzeczeniakończącego to postępowanie; sądmoże jednaki przedtem,
+stosownie do okoliczności, podjąć dalsze postępowanie;
+5) w przypadku:
+a) ustanowienia zarządcy przymusowego w postępowaniu w przedmiocie ogłoszenia
+upadłości - z chwilą ustalenia osoby pełniącej funkcję zarządcy przymusowego,
+b) ogłoszeniaupadłości strony lub wszczęcia wtórnegopostępowania upadłościowego,z
+wyjątkiem określonym w art. 145 ust. 1 ustawy z dnia 28 lutego 2003 r. - Prawo
+upadłościowe (Dz. U. z 2024 r. poz. 794 i 1222) - z chwilą ustalenia osoby pełniącej
+funkcję syndyka,
+c) ustanowienia zarządcy tymczasowego w postępowaniu o otwarcie postępowania
+sanacyjnego - z chwilą ustalenia osoby pełniącej funkcję zarządcy tymczasowego,
+d) ustanowienia zarządcy w postępowaniu restrukturyzacyjnym - z chwilą ustalenia
+osoby pełniącej funkcję zarządcy;
+6) jeżeli zarządca sukcesyjny, z którego udziałem toczyło się postępowanie, przestał
+pełnić tę funkcję - z dniem zgłoszenia się lub wskazania kolejnego zarządcy sukcesyjnego;
+7) wprzypadku wygaśnięcia zarządusukcesyjnego -z dniemzgłoszenia się lub wskazania
+następców prawnych zmarłego.
+§ 2. Jeżeli w ciągu roku od dnia postanowienia o zawieszeniu postępowania nie zgłoszą się
+lub nie zostaną wskazani następcy prawni zmarłego, a postępowanie nie zostanie podjęte z
+udziałem zarządcy sukcesyjnego, sąd może z urzędu zwrócić się do sądu spadku o
+ustanowienie kuratora spadku, chyba że kurator taki już wcześniej został ustanowiony.
