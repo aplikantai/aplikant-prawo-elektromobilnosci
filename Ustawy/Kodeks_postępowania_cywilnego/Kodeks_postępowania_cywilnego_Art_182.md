@@ -1,0 +1,39 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 182
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 182
+source_document: kodeks-postepowania.pdf
+chunk_number: 515
+---
+
+Art. 182. [Umorzenie postępowania cywilnego]
+§ 1. Sąd umarza postępowanie:
+1) zawieszone z przyczyn wskazanych w art. 177 § 1 pkt 5 i 6, jeżeli wniosek o podjęcie
+postępowania nie został zgłoszony w ciągu trzech miesięcy od daty postanowienia o
+zawieszeniu postępowania;
+2) zawieszone na zgodny wniosek stron lub na wniosek spadkobiercy, jeżeli wniosek o
+podjęcie postępowania nie został zgłoszony w ciągu sześciu miesięcy od daty
+postanowienia o zawieszeniu postępowania;
+3) w przypadku stwierdzenia braku następcy prawnego strony, która utraciła zdolność
+sądową, a w każdym razie po upływie roku od daty postanowienia o zawieszeniu
+postępowania z tej przyczyny;
+4) zawieszone z przyczyny wskazanej w art. 174 § 1 pkt 2 po upływie dwóch lat od daty
+postanowienia o zawieszeniu postępowania z tej przyczyny;
+5) zawieszone z powodu śmierci strony po upływie pięciu lat od daty postanowienia o
+zawieszeniu postępowania z tej przyczyny.
+§ 2. Umorzenie postępowania zawieszonego w pierwszej instancji nie pozbawia powoda
+prawa ponownego wytoczenia powództwa, jednakże poprzedni pozew nie wywołuje żadnych
+skutków, które ustawa wiąże z wytoczeniem powództwa. Skutki te wywołuje jednak pozew
+wniesiony w sprawie, w której postępowanie umorzono na podstawie § 1 pkt 4.
+§ 3. Umorzenie zawieszonego postępowania przez sąd wyższej instancji powoduje
+uprawomocnienie się zaskarżonego orzeczenia, z wyjątkiem spraw o unieważnienie
+małżeństwa lub o rozwód oraz o ustalenie nieistnienia małżeństwa, w których postępowanie
+umarza się wówczas w całości.
+§ 4. Z umorzeniem postępowania umarzają się nawzajem także koszty stron w danej
+instancji.
+1
+Art. 182 .
+(uchylony).
