@@ -1,0 +1,28 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 886
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 886
+source_document: kodeks-postepowania.pdf
+chunk_number: 1218
+---
+
+Art. 886. [Grzywna]
+§ 1. Pracodawcy, który nie wykonał obowiązków określonych w art. 881 § 3 i 4, nie złożył w
+przepisanym terminie oświadczenia przewidzianego w art. 882 albo zaniedbał przesłania
+dokumentów zajęcia wynagrodzenia nowemu pracodawcy dłużnika, stosownie do art. 884 § 2 i 3,
+komornik wymierza grzywnę w wysokości do pięciu tysięcy złotych. Grzywna jest powtarzana,
+jeżeli pracodawca nadal uchyla się od wykonania tych czynności w dodatkowo wyznaczonym
+terminie.
+§ 2. Jeżeli pracodawcą nie jest osoba fizyczna, grzywnie podlega pracownik lub wspólnik
+odpowiedzialny za wykonanie takiej czynności, a w razie niewyznaczenia takiego pracownika lub
+niemożności jego ustalenia - osoby uprawnione do reprezentowania pracodawcy. Jeżeli
+pracodawcą jest spółka cywilna, grzywnie podlega którykolwiek ze wspólników.
+§ 3. Pracodawca, który nie zastosował się do wezwania z art. 881 i 882 lub w inny sposób
+naruszył obowiązki wynikające z zajęcia bądź złożył oświadczenie przewidziane w art. 882
+niezgodnez prawdą albo dokonałwypłaty zajętejczęści wynagrodzenia dłużnikowi, odpowiada za
+wyrządzoną przez to wierzycielowi szkodę.
+§ 4. Grzywnę określoną w § 1 komornik wymierzy również dłużnikowi, który nie powiadomiłgo
+o zmianie pracodawcy.
