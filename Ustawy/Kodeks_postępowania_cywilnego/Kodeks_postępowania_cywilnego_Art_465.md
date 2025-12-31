@@ -1,0 +1,22 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 465
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 465
+source_document: kodeks-postepowania.pdf
+chunk_number: 798
+---
+
+Art. 465. [Pełnomocnik pracownika lub ubezpieczonego]
+§ 1. Pełnomocnikiem pracownika lub ubezpieczonego może być również przedstawiciel
+związku zawodowego lub inspektor pracy albo pracownik zakładu pracy, w którym
+mocodawca jest lub był zatrudniony, a ubezpieczonego - także przedstawiciel organizacji
+zrzeszającej emerytów i rencistów.
+1
+§ 1 . Pełnomocnikiem pracodawcy niebędącego osobą prawną lub przedsiębiorcą albo
+organu rentowego może być również jego pracownik. Pełnomocnikiem wojewódzkiego
+zespołu do spraw orzekania o niepełnosprawności może być jego członek.
+§ 2. Do odbioru należności zasądzonych na rzecz pracownika lub ubezpieczonego jest
+wymagane pełnomocnictwo szczególne, udzielone po powstaniu tytułu egzekucyjnego.
