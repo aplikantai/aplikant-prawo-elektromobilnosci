@@ -1,0 +1,34 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 174
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 174
+source_document: kodeks-postepowania.pdf
+chunk_number: 507
+---
+
+Art. 174. [Zawieszenie z urzędu]
+§ 1. Sąd zawiesza postępowanie z urzędu:
+1) w razie śmierci strony lub jej przedstawiciela ustawowego, utraty przez nich zdolności
+procesowej, utraty przez stronę zdolności sądowej lub utraty przez przedstawiciela
+ustawowego charakteru takiego przedstawiciela;
+2) jeżeli w składzie organów jednostki organizacyjnej będącej stroną zachodzą braki
+uniemożliwiające jejdziałanie, chyba żeustanowiono kuratora na podstawie art.69§ 1 lub
+art. 42 § 1 Kodeksu cywilnego;
+3) jeżeli strona lub jej przedstawiciel ustawowy znajduje się w miejscowości pozbawionej
+wskutek nadzwyczajnych wydarzeń komunikacji z siedzibą sądu;
+4) jeżeli postępowanie dotyczy masy upadłości, masy układowej lub masy sanacyjnej i
+ogłoszono upadłość lub wszczęto wtórne postępowanie upadłościowe albo ustanowiono
+zarządcę w postępowaniu restrukturyzacyjnym;
+5) jeżeli ustanowiono zarządcę przymusowego w postępowaniu w przedmiocie ogłoszenia
+upadłości lub zarządcę tymczasowego w postępowaniu o otwarcie postępowania
+sanacyjnego, a postępowanie dotyczy majątku objętego zabezpieczeniem;
+6) jeżeli zarządca sukcesyjny przestał pełnić tę funkcję albo zarząd sukcesyjny wygasł, w
+przypadku gdy postępowanie toczyło się z udziałem zarządcy sukcesyjnego.
+§ 2. W przypadkach wymienionych w § 1 pkt 1, 4 i 6 zawieszenie ma skutek od chwili
+zdarzeń, które je spowodowały. Zawieszając postępowanie, sąd z urzędu uchyla orzeczenia
+wydane po nastąpieniu tych zdarzeń, chyba że nastąpiły one po zamknięciu rozprawy.
+§ 3. W przypadkach, o których mowa w § 1 pkt 4 i 5, sąd wezwie syndyka, zarządcę
+przymusowego, zarządcę tymczasowego albo zarządcę do udziału w sprawie.
