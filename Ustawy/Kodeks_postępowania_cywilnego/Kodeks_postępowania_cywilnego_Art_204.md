@@ -1,0 +1,21 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 204
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 204
+source_document: kodeks-postepowania.pdf
+chunk_number: 537
+---
+
+Art. 204. [Powództwo wzajemne]
+§ 1. Powództwo wzajemne jest dopuszczalne, jeżeli roszczenie wzajemne jest w związku z
+roszczeniem powodalub nadaje się do potrącenia.Powództwo wzajemne można wytoczyć nie
+później niż w odpowiedzi na pozew, a jeżeli jej nie złożono - w sprzeciwie od wyroku
+zaocznego albo przy rozpoczęciu pierwszego posiedzenia, o którym zawiadomiono albo na
+które wezwano pozwanego.
+§ 2. Pozew wzajemny wnosi się do sądu pozwu głównego. Jeżeli jednak pozew wzajemny
+podlega rozpoznaniu przez sąd okręgowy, a sprawa wszczęta była w sądzie rejonowym, sąd
+ten przekazuje całą sprawę sądowi właściwemu do rozpoznania powództwa wzajemnego.
+§ 3. Przepisy dotyczące pozwu stosuje się odpowiednio do pozwu wzajemnego.
