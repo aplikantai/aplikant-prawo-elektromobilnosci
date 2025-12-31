@@ -1,0 +1,19 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 514
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 514
+source_document: kodeks-postepowania.pdf
+chunk_number: 847
+---
+
+Art. 514. [Rozprawa]
+§ 1. Rozprawa odbywa się w wypadkach wskazanych w ustawie. W innych wypadkach
+wyznaczenie rozprawy zależy od uznania sądu. Mimo niewyznaczenia rozprawy sąd przed
+rozstrzygnięciem sprawy może wysłuchać uczestników na posiedzeniu sądowym lub zażądać od
+nich oświadczeń na piśmie.
+§ 2. Jednakże nawet w wypadkach, gdy ustawa wymaga przeprowadzenia rozprawy, sąd może,
+bez wzywania zainteresowanych do udziału w sprawie, oddalić wniosek na posiedzeniu
+niejawnym, jeżeli z treści wniosku wynika oczywisty brak uprawnienia wnioskodawcy.
