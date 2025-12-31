@@ -1,0 +1,76 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 476
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 476
+source_document: kodeks-postepowania.pdf
+chunk_number: 809
+---
+
+Art. 476. [Definicje]
+§ 1. Przez sprawy z zakresu prawa pracy rozumie się sprawy:
+1) o roszczenia ze stosunku pracy lub z nim związane;
+1
+1 ) o ustalenie istnienia stosunku pracy, jeżeli łączący strony stosunek prawny, wbrew
+zawartej między nimi umowie, ma cechy stosunku pracy;
+2) o roszczenia z innych stosunków prawnych, do których z mocy odrębnych przepisów
+stosuje się przepisy prawa pracy;
+3) o odszkodowania dochodzone odpracodawcyna podstawie przepisów o świadczeniach
+z tytułu wypadków przy pracy i chorób zawodowych.
+§ 2. Przez sprawy z zakresu ubezpieczeń społecznych rozumie się sprawy, w których
+wniesiono odwołanie od decyzji organów rentowych, dotyczących:
+1) ubezpieczeń społecznych;
+2) emerytur i rent;
+3) (uchylony);
+4) innych świadczeń w sprawach należących do właściwości Zakładu Ubezpieczeń
+Społecznych;
+5) świadczeń odszkodowawczych przysługujących w razie wypadku lub choroby
+pozostających w związku ze służbą wojskową albo służbą w Policji, Straży Granicznej,
+Straży Marszałkowskiej, Służbie Celno-Skarbowej, Państwowej Straży Pożarnej, Biurze
+Ochrony Rządu, Służbie Ochrony Państwa, Służbie Więziennej, Agencji Bezpieczeństwa
+Wewnętrznego, AgencjiWywiadu, Służbie KontrwywiaduWojskowego, Służbie Wywiadu
+Wojskowego oraz Centralnym Biurze Antykorupcyjnym.
+§ 3. Przez sprawy z zakresu ubezpieczeń społecznych rozumie się także sprawy wszczęte na
+skutek niewydania przez organ rentowy decyzji we właściwym terminie, a także sprawy, w
+których wniesiono odwołanie od orzeczenia wojewódzkiego zespołu do spraw orzekania o
+niepełnosprawności lub od decyzji wydanej przez ten zespół, sprawy o roszczenia ze
+stosunków prawnych między członkami otwartych funduszy emerytalnych a tymi funduszami
+lub ich organami oraz sprawy ze stosunków między emerytami lub osobami uposażonymi w
+rozumieniu przepisów o emeryturach kapitałowych a Zakładem Ubezpieczeń Społecznych.
+§ 4. Przez organy rentowe rozumie się:
+1) jednostki organizacyjne Zakładu Ubezpieczeń Społecznych określone w przepisach o
+systemie ubezpieczeń społecznych, właściwe do wydawania decyzji w sprawach
+świadczeń,
+2) (uchylony),
+3) wojskowe organy emerytalne oraz organy emerytalne resortów spraw wewnętrznych i
+sprawiedliwości, a także inne organy wojskowe i organy resortów spraw wewnętrznych i
+sprawiedliwości
+- właściwe do wydawania decyzji w sprawach, o których mowa w § 2, a także Prezesa Kasy
+Rolniczego Ubezpieczenia Społecznego.
+§ 5. Przez użyte w niniejszym dziale określenie
+1) pracownik - rozumie się również:
+a) członka rolniczej spółdzielni produkcyjnej, osobę świadczącą pracę na podstawie
+umowy o pracę nakładczą oraz członków rodziny i spadkobierców pracownika, członka
+rolniczej spółdzielni produkcyjnej i osoby świadczącej pracę na podstawie umowy o
+pracę nakładczą, a także inne osoby, którym z mocy odrębnych przepisów przysługują
+roszczenia z zakresu prawa pracy,
+b) osobę dochodzącą od pracodawcy odszkodowania lub ustalenia uprawnień do
+świadczeń na podstawie przepisów o świadczeniach z tytułu wypadków przy pracy i
+chorób zawodowych;
+2) ubezpieczony - rozumie się osobę ubiegającą się o:
+a) świadczenie z ubezpieczeń społecznych albo o emeryturę lub rentę,
+b) ustalenie istnienia bądź nieistnienia obowiązku ubezpieczenia, jego zakresu lub
+wymiaru składki z tego tytułu,
+c) świadczenia w sprawach należących do właściwości Zakładu Ubezpieczeń
+Społecznych,
+d) świadczenie odszkodowawcze przysługujące w razie wypadku lub choroby
+pozostające w związku ze służbą wojskową albo służbą w Policji, Straży Granicznej,
+Straży Marszałkowskiej, Służbie Celno-Skarbowej, Państwowej Straży Pożarnej, Biurze
+Ochrony Rządu, Służbie Ochrony Państwa, Służbie Więziennej, Agencji
+Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu
+Wojskowego, Służbie Wywiadu Wojskowego oraz Centralnym Biurze
+Antykorupcyjnym.
+Rozdział 2
+Postępowanie w sprawach z zakresu prawa pracy
