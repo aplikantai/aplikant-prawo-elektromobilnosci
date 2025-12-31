@@ -1,0 +1,24 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 379
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 379
+source_document: kodeks-postepowania.pdf
+chunk_number: 712
+---
+
+Art. 379. [Nieważność postępowania]
+Nieważność postępowania zachodzi:
+1) jeżeli droga sądowa była niedopuszczalna;
+2) jeżeli strona nie miała zdolności sądowej lub procesowej, organu powołanego do jej
+reprezentowania lub przedstawiciela ustawowego, albo gdy pełnomocnik strony nie był
+należycie umocowany;
+3) jeżeli o to samo roszczenie między tymi samymi stronami toczy się sprawa wcześniej
+wszczęta albo jeżeli sprawa taka została już prawomocnie osądzona;
+4) jeżeli skład sądu orzekającego był sprzeczny z przepisami prawa albo jeżeli w
+rozpoznaniu sprawy brał udział sędzia wyłączony z mocy ustawy;
+5) jeżeli strona została pozbawiona możności obrony swych praw;
+6) jeżeli sąd rejonowy orzekł w sprawie, w której sąd okręgowy jest właściwy bez
+względu na wartość przedmiotu sporu.
