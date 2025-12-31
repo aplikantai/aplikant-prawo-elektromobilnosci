@@ -1,0 +1,56 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 1046
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 1046
+source_document: kodeks-postepowania.pdf
+chunk_number: 1378
+---
+
+Art. 1046. [Wydanie nieruchomości, statku, opróżnienie pomieszczenia]
+§ 1. Jeżeli dłużnik ma wydać nieruchomość lub statek albo opróżnić pomieszczenie, komornik
+sądu, w którego okręgu rzeczyte się znajdują, wezwie dłużnika do dobrowolnego wykonania tego
+obowiązku w wyznaczonym stosownie do okoliczności terminie, po którego bezskutecznym
+upływie dokona czynności potrzebnych do wprowadzenia wierzyciela w posiadanie.
+§ 2. (uchylony).
+§ 3. (uchylony).
+§ 4. Wykonując obowiązek opróżnienia lokalu służącego zaspokojeniu potrzeb mieszkaniowych
+dłużnika na podstawie tytułu wykonawczego, z którego nie wynika uprawnienie dłużnika do
+zawarcia umowy najmu socjalnego lokalu lub prawo do lokalu zamiennego, komornik usunie
+dłużnika doinnego lokalu lub pomieszczenia, do którego dłużnikowi przysługuje tytuł prawny i w
+którym może on zamieszkać. Jeżeli dłużnikowi nie przysługuje tytuł prawny do innego lokalu lub
+pomieszczenia, w którym może zamieszkać, komornik wstrzyma się z dokonaniem czynności do
+czasu, gdygmina właściwa zewzględu na miejsce położenia lokalu podlegającegoopróżnieniu, na
+wniosek komornika, wskaże dłużnikowi tymczasowe pomieszczenie.
+1
+§ 4 . (uchylony).
+§ 5. Komornik nie może wstrzymać się z dokonaniem czynności, jeżeli wierzyciel lub dłużnik
+albo osoba trzecia wskaże pomieszczenie odpowiadające wymogom tymczasowego
+pomieszczenia.
+1
+§ 5 . Jeżeli dłużnikowi nie przysługuje prawo do tymczasowego pomieszczenia, komornik
+usunie dłużnika do noclegowni, schroniska lub innej placówki zapewniającej miejsca noclegowe,
+wskazanej na wniosek komornika przez gminę właściwą ze względu na miejsce położenia lokalu
+podlegającego opróżnieniu.
+§ 6. (uchylony).
+§ 7. (uchylony).
+§ 8. (uchylony).
+§ 9. Przeprowadzając egzekucję, komornik usunie ruchomości niebędące przedmiotem egzekucji
+i odda je dłużnikowi, a w razie jego nieobecności pozostawi osobie dorosłej spośród jego
+domowników, gdyby zaś i to nie było możliwe, ustanowi dozorcę, pouczając go o obowiązkach i
+prawach dozorcy ustanowionego przy zajęciu ruchomości, i odda mu usunięte ruchomości na
+przechowanie na koszt dłużnika.
+§ 10. Jeżeli na wezwanie dozorcy dłużnik w wyznaczonym terminie, nie krótszym niż 30dni, nie
+odbierze ruchomości, sąd na wniosek dozorcy i po wysłuchaniu dłużnika nakaże ich sprzedaż, a
+jeżeli ruchomości nie przedstawiają wartości handlowej lub sprzedaż okaże się bezskuteczna, sąd
+wskaże inny sposób rozporządzenia rzeczą, nie wyłączając ich zniszczenia.
+§ 11. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy tryb
+postępowania w sprawacho opróżnienie lokalu, lub pomieszczeniaalbo o wydanie nieruchomości,
+mając na względzie ochronę przed bezdomnością osób eksmitowanych oraz sprawne prowadzenie
+egzekucji.
+§ 12. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy tryb
+postępowania w sprawach o wykonanie postanowienia zobowiązującego osobę stosującą przemoc
+domową do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia,
+mając na względzie sprawne, szybkie i skuteczne prowadzenie egzekucji.
