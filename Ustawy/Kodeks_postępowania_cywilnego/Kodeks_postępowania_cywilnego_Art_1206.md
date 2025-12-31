@@ -1,0 +1,39 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 1206
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 1206
+source_document: kodeks-postepowania.pdf
+chunk_number: 1538
+---
+
+Art. 1206. [Podstawy skargi]
+§ 1. Strona może w drodze skargi żądać uchylenia wyroku sądu polubownego, jeżeli:
+1) brak byłozapisu nasąd polubowny, zapisna sąd polubowny jestnieważny, bezskuteczny albo
+utracił moc według prawa dla niego właściwego;
+2) strona nie była należycie zawiadomiona o wyznaczeniu arbitra, o postępowaniu przed sądem
+polubownym lub w inny sposób była pozbawiona możności obrony swoich praw przed sądem
+polubownym;
+3) wyroksądu polubownegodotyczy sporu nieobjętegozapisem nasąd polubowny lubwykracza
+poza zakres takiego zapisu, jeżeli jednak rozstrzygnięcie w sprawach objętych zapisem na sąd
+polubowny daje się oddzielić od rozstrzygnięcia w sprawach nieobjętych tym zapisem lub
+wykraczających poza jego zakres, wyrok może być uchylony jedynie w zakresie spraw
+nieobjętych zapisem lub wykraczających poza jego zakres; przekroczenie zakresu zapisu na sąd
+polubowny nie może stanowić podstawy uchylenia wyroku, jeżeli strona, która brała udział w
+postępowaniu, nie zgłaszała zarzutów co do rozpoznania roszczeń wykraczających poza zakres
+zapisu;
+4) nie zachowano wymagań co do składu sądu polubownego lub podstawowych zasad
+postępowania przed tym sądem, wynikających z ustawy lub określonych przez strony;
+5) wyrok uzyskano za pomocą przestępstwa albo podstawą wydania wyroku był dokument
+podrobiony lub przerobiony;
+6) w tej samej sprawie między tymi samymi stronami zapadł prawomocny wyrok sądu.
+§ 2. Uchylenie wyroku sądu polubownego następuje także wtedy, gdy sąd stwierdził, że:
+1) według ustawy spór nie może być rozstrzygnięty przez sąd polubowny;
+2) wyrok sądu polubownego jest sprzeczny z podstawowymi zasadami porządku prawnego
+Rzeczypospolitej Polskiej (klauzula porządku publicznego);
+3) wyrok sądu polubownego pozbawia konsumenta ochrony przyznanej mu bezwzględnie
+wiążącymi przepisami prawa właściwegodla umowy, której stroną jest konsument, agdy prawem
+właściwym dla tej umowy jest prawo wybrane przez strony - ochrony przyznanej konsumentowi
+bezwzględnie wiążącymi przepisami prawa, które byłoby właściwe w braku wyboru prawa.
