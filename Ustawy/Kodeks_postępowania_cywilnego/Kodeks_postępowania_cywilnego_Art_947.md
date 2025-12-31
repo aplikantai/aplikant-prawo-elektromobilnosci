@@ -1,0 +1,31 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 947
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 947
+source_document: kodeks-postepowania.pdf
+chunk_number: 1279
+---
+
+Art. 947. [Protokół opisu i oszacowania]
+§ 1. W protokole opisu i oszacowania komornik wymieni:
+1) oznaczenie nieruchomości, jej granice, a w miarę możności jej obszar oraz oznaczenie
+księgi wieczystej lub zbioru dokumentów;
+2) budowle i inne urządzenia ze wskazaniem ich przeznaczenia gospodarczego oraz
+przynależności nieruchomości, jak również zapasy objęte zajęciem;
+3) stwierdzone prawa i obciążenia;
+4) umowy ubezpieczenia;
+5) osoby, w których posiadaniu znajduje się nieruchomość, jej przynależności i pożytki;
+6) sposób korzystania z nieruchomości przez dłużnika;
+7) oszacowanie z podaniem jego podstaw;
+8) zgłoszone prawa do nieruchomości;
+9) inne szczegóły istotne dla oznaczenia lub oszacowania nieruchomości.
+1
+§ 1 . Jeżeli na ruchomościach, wierzytelnościach lub prawach zajętych wspólnie z
+nieruchomością ustanowiony został zastaw rejestrowy, w opisie należy wymienić przedmiot
+obciążony zastawem rejestrowym oraz wierzytelność, którą zastaw ten zabezpiecza.
+§ 2. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy sposób
+przeprowadzenia opisu i oszacowania nieruchomości, mając na względzie zapewnienie
+prawidłowej wyceny nieruchomości oraz sprawność postępowania i skuteczność egzekucji.
