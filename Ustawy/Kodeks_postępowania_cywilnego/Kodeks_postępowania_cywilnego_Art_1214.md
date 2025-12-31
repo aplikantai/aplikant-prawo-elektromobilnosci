@@ -1,0 +1,32 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 1214
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 1214
+source_document: kodeks-postepowania.pdf
+chunk_number: 1546
+---
+
+Art. 1214. [Orzeczenie w przedmiocie uznania lub stwierdzenia wykonalności]
+§ 1. O uznaniu wyroku sądu polubownego lub ugody przed nim zawartej, nienadających się do
+wykonania w drodze egzekucji, sąd orzeka postanowieniem.
+§ 2. Sąd stwierdza wykonalność wyroku sądu polubownego lub ugody przed nim zawartej,
+nadających się do wykonania w drodze egzekucji, nadając im klauzulę wykonalności. Wyrok sądu
+polubownego lub ugoda przed nim zawarta, których wykonalność została stwierdzona, są tytułami
+wykonawczymi.
+§ 3. Sąd odmawia uznania albo stwierdzenia wykonalności wyroku sądu polubownego lub ugody
+przed nim zawartej, jeżeli:
+1) według przepisów ustawy spór nie może być poddany pod rozstrzygnięcie sądu polubownego;
+2) uznanie lub wykonanie wyroku sądu polubownego lub ugody przed nim zawartej byłoby
+sprzeczne z podstawowymi zasadami porządku prawnego Rzeczypospolitej Polskiej (klauzula
+porządku publicznego);
+3) wyrok sądu polubownego lub ugoda przed nim zawarta pozbawia konsumenta ochrony
+przyznanej mu bezwzględnie wiążącymi przepisami prawa właściwego dla umowy, której stroną
+jest konsument, a gdy prawem właściwym dla tej umowy jest prawo wybrane przez strony -
+ochrony przyznanej konsumentowi bezwzględnie wiążącymi przepisami prawa, które byłoby
+właściwe w braku wyboru prawa.
+§ 4. Na postanowienie sądu apelacyjnego w przedmiocie uznania albo stwierdzenia wykonalności
+wyroku sądu polubownego wydanego w Rzeczypospolitej Polskiej lub ugody przed nim zawartej
+przysługuje zażalenie do innego składu tego sądu.
