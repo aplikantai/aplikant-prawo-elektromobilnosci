@@ -1,0 +1,23 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 261
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 261
+source_document: kodeks-postepowania.pdf
+chunk_number: 594
+---
+
+Art. 261. [Prawo odmowy zeznań]
+§ 1. Nikt nie ma prawa odmówić zeznań w charakterze świadka, z wyjątkiem małżonków
+stron, ich wstępnych, zstępnych i rodzeństwa oraz powinowatych w tej samej linii lub
+stopniu, jak również osób pozostających ze stronami w stosunku przysposobienia. Prawo
+odmowy zeznań trwa po ustaniu małżeństwa lub rozwiązaniu stosunku przysposobienia.
+Jednakże odmowa zeznań nie jest dopuszczalna w sprawach o prawa stanu, z wyjątkiem
+spraw o rozwód.
+§ 2. Świadek może odmówić odpowiedzi na zadane mu pytanie, jeżeli zeznanie mogłoby
+narazić jego lub jego bliskich, wymienionych w paragrafie poprzedzającym, na
+odpowiedzialność karną, hańbę lub dotkliwą i bezpośrednią szkodę majątkową albo jeżeli
+zeznanie miałoby być połączone zpogwałceniem istotnej tajemnicy zawodowej. Duchowny
+może odmówić zeznań co do faktów powierzonych mu na spowiedzi.
