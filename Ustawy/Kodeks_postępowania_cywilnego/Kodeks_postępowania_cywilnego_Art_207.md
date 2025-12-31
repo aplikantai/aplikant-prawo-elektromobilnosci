@@ -1,0 +1,12 @@
+---
+law_title: "Kodeks postępowania cywilnego"
+category: Ustawy
+legal_provisions: Art. 207
+doc_type: USTAWA
+doc_number: Dz.U.2024.334
+article: 207
+source_document: kodeks-postepowania.pdf
+chunk_number: 540
+---
+
+Art. 207. (uchylony).
